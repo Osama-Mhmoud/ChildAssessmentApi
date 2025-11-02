@@ -1,6 +1,36 @@
-@ChildAssessmentApi_HostAddress = http://localhost:5015
+@ChildAssessmentApi_HostAddress = http://localhost:5016
 
-GET {{ChildAssessmentApi_HostAddress}}/weatherforecast/
+### Get all sections with questions
+GET {{ChildAssessmentApi_HostAddress}}/api/assessments/sections
 Accept: application/json
+
+### Import sample questions
+POST {{ChildAssessmentApi_HostAddress}}/api/assessments/questions/import-sample
+Accept: application/json
+
+### Get all questions
+GET {{ChildAssessmentApi_HostAddress}}/api/assessments/questions
+Accept: application/json
+
+### Get questions by section
+GET {{ChildAssessmentApi_HostAddress}}/api/assessments/questions?sectionId=1
+Accept: application/json
+
+### Get question categories
+GET {{ChildAssessmentApi_HostAddress}}/api/assessments/questions/categories
+Accept: application/json
+
+### Get milestone levels
+GET {{ChildAssessmentApi_HostAddress}}/api/assessments/questions/milestone-levels
+Accept: application/json
+
+### Create a child
+POST {{ChildAssessmentApi_HostAddress}}/api/assessments/children
+Content-Type: application/json
+
+{
+  "name": "أحمد محمد",
+  "dateOfBirth": "2020-01-15T00:00:00Z"
+}
 
 ###

@@ -22,8 +22,25 @@ public class Section
     {
         public int Id { get; set; }
         public string Text { get; set; }
+        public string? Description { get; set; }
         public int SectionId { get; set; }
         public Section Section { get; set; }
+        public int? MilestoneLevel { get; set; } // VBMAPP milestone level (0-48 months)
+        public string? Category { get; set; } // VBMAPP category
+        public int Order { get; set; } // Order within section
+        public bool IsActive { get; set; } = true;
+        public string? Guide { get; set; } // Guide text for Barriers questions
+        public List<QuestionOption> Options { get; set; } = new List<QuestionOption>();
+    }
+
+    public class QuestionOption
+    {
+        public int Id { get; set; }
+        public int QuestionId { get; set; }
+        public Question Question { get; set; }
+        public string Text { get; set; }
+        public int Order { get; set; } // Order of the option (0-4 for Barriers questions)
+        public int Score { get; set; } // Score value (0-4 for Barriers questions)
     }
 
     public class Child
@@ -63,7 +80,22 @@ public class Section
     {
         public int Id { get; set; }
         public string Text { get; set; }
+        public string? Description { get; set; }
         public int SectionId { get; set; }
+        public int? MilestoneLevel { get; set; }
+        public string? Category { get; set; }
+        public int Order { get; set; }
+        public bool IsActive { get; set; }
+        public string? Guide { get; set; }
+        public List<QuestionOptionDto> Options { get; set; } = new List<QuestionOptionDto>();
+    }
+
+    public class QuestionOptionDto
+    {
+        public int Id { get; set; }
+        public string Text { get; set; }
+        public int Order { get; set; }
+        public int Score { get; set; }
     }
 
     public class ChildDto
@@ -92,6 +124,48 @@ public class Section
         public int AssessmentId { get; set; }
         public double TotalScore { get; set; }
         public Dictionary<string, double> SectionScores { get; set; } = new Dictionary<string, double>();
+    }
+
+    // VBMAPP specific models
+    public class VbmappQuestionImportDto
+    {
+        public string Text { get; set; }
+        public string? Description { get; set; }
+        public int SectionId { get; set; }
+        public int? MilestoneLevel { get; set; }
+        public string? Category { get; set; }
+        public int Order { get; set; }
+        public string? Guide { get; set; }
+        public List<VbmappQuestionOptionDto> Options { get; set; } = new List<VbmappQuestionOptionDto>();
+    }
+
+    public class VbmappQuestionOptionDto
+    {
+        public string Text { get; set; }
+        public int Order { get; set; }
+        public int Score { get; set; }
+    }
+
+    public class BulkQuestionImportDto
+    {
+        public List<VbmappQuestionImportDto> Questions { get; set; } = new List<VbmappQuestionImportDto>();
+    }
+
+    public class BarriersQuestionImportDto
+    {
+        public string Text { get; set; }
+        public int SectionId { get; set; }
+        public int Order { get; set; }
+        public string? Guide { get; set; }
+        public List<string> Options { get; set; } = new List<string>(); // 5 options in order (0-4)
+    }
+
+    public class QuestionFilterDto
+    {
+        public int? SectionId { get; set; }
+        public int? MilestoneLevel { get; set; }
+        public string? Category { get; set; }
+        public bool? IsActive { get; set; }
     }
 
 }

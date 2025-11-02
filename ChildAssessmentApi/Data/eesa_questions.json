@@ -1,0 +1,598 @@
+{
+  "questions": [
+    {
+      "text": "VB-MAPP Milestones Score (EESA)",
+      "sectionId": 5,
+      "order": 1,
+      "guide": "Overall VB-MAPP Milestones score used in EESA context. Focus on readiness for early education settings.",
+      "options": [
+        {
+          "text": "0–25",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "26–50",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "51–100",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "101–135",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "136–170",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "VB-MAPP Barriers Score (EESA)",
+      "sectionId": 5,
+      "order": 2,
+      "guide": "Barriers impacting transition to early education environments.",
+      "options": [
+        {
+          "text": "56–96",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "31–55",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "21–30",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "11–20",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "0–10",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Behavior Problems (EESA)",
+      "sectionId": 5,
+      "order": 3,
+      "guide": "Negative behaviors affecting classroom participation.",
+      "options": [
+        {
+          "text": "Score 6–7 on Barriers",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Score 5",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Score 3–4",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Score 2",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Score 0–1",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Classroom Group Skills",
+      "sectionId": 5,
+      "order": 4,
+      "guide": "Ability to follow group routines in preschool settings.",
+      "options": [
+        {
+          "text": "2 points",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "3–4 points",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "5–7 points",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "8–9 points",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "10 points",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Social Play with Peers",
+      "sectionId": 5,
+      "order": 5,
+      "guide": "Engagement in cooperative play during free time.",
+      "options": [
+        {
+          "text": "2–3 points",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "4–5 points",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "6–9 points",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "10–12 points",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "13–15 points",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Independent Task Completion",
+      "sectionId": 5,
+      "order": 6,
+      "guide": "Completing simple tasks without adult prompts.",
+      "options": [
+        {
+          "text": "30 sec with 1 prompt",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "1 min with 1 prompt",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "2 min no prompt",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "5 min no prompt",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "10 min no prompt",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Generalization Across Settings",
+      "sectionId": 5,
+      "order": 7,
+      "guide": "Using skills in home, school, and community.",
+      "options": [
+        {
+          "text": "Few skills, not easy",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "New materials with training",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Spontaneous stimulus gen",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Spontaneous response gen",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Consistent first trial",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Reinforcer Variety",
+      "sectionId": 5,
+      "order": 8,
+      "guide": "Range of motivators beyond edibles.",
+      "options": [
+        {
+          "text": "Edibles only",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Toys & sensory",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Social & peer",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Intermittent & varied",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Age-appropriate & verbal",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Learning Rate",
+      "sectionId": 5,
+      "order": 9,
+      "guide": "Speed of acquiring new skills.",
+      "options": [
+        {
+          "text": "Weeks, 100+ trials",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Week, 100+ trials",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "<50 trials/week",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "<25 trials/week",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Daily, ≤5 trials",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Skill Retention",
+      "sectionId": 5,
+      "order": 10,
+      "guide": "Maintaining skills over time.",
+      "options": [
+        {
+          "text": "10 min",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "1 hour",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "24h with ≤5 trials",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "24h no trials",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "1 week no trials",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Natural Environment Learning",
+      "sectionId": 5,
+      "order": 11,
+      "guide": "Acquiring skills without structured teaching.",
+      "options": [
+        {
+          "text": "2 motor skills",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "5 mands/tacts",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "25 mands/tacts",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "25 intraverbals",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Daily, no teaching",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Verbal Operant Transfer",
+      "sectionId": 5,
+      "order": 12,
+      "guide": "Transfer between mand, tact, intraverbal.",
+      "options": [
+        {
+          "text": "Echoic → mand (2)",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Echoic → mand (5)",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Tact → mand (10)",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Tact → intraverbal (10)",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Daily, all skills",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Adaptability to Change",
+      "sectionId": 5,
+      "order": 13,
+      "guide": "Handling routine changes without distress.",
+      "options": [
+        {
+          "text": "Minor change with prep",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Distress, needs prep",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Complains but adapts",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Quick, minor distress",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Handles all changes",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Spontaneous Language",
+      "sectionId": 5,
+      "order": 14,
+      "guide": "Initiating communication without prompts.",
+      "options": [
+        {
+          "text": "Few, prompted",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Nonverbal only",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Mands/tacts daily",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "All types daily",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Across all areas",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Independent Play",
+      "sectionId": 5,
+      "order": 15,
+      "guide": "Self-directed play during free time.",
+      "options": [
+        {
+          "text": "3 points",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "5 points",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "8 points",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "11 points",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "14 points",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Self-Help Skills",
+      "sectionId": 5,
+      "order": 16,
+      "guide": "Dressing, feeding, hygiene independence.",
+      "options": [
+        {
+          "text": "No help, no resistance",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Physical prompts",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Verbal prompts",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Initiates, needs verbal",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Motivated, generalizes",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Toileting Independence",
+      "sectionId": 5,
+      "order": 17,
+      "guide": "Full toileting routine without assistance.",
+      "options": [
+        {
+          "text": "Diaper, readiness",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Training begun",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Daytime trained",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Bowel trained",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Fully independent",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Eating Independence",
+      "sectionId": 5,
+      "order": 18,
+      "guide": "Using utensils, cleaning up.",
+      "options": [
+        {
+          "text": "Messy, physical help",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Finger food, cleanup",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Verbal prompt to eat",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Spoon, minimal mess",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Full independence",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    }
+  ]
+}

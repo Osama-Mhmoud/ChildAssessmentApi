@@ -1,0 +1,869 @@
+{
+  //"questions": [
+  //  {
+  //    "text": "Behavior Problems",
+  //    "sectionId": 3,
+  //    "order": 1,
+  //    "guide": "إرشادات التسجيل لتقييم العوائق\n\n1. Negative Behaviors\n\nMost children exhibit some form of negative behavior during their early development (e.g., whining, crying, tantruming, aggression). Usually, these behaviors subside in frequency and are replaced with other more acceptable behaviors (e.g., language and socialization). However, for some children with autism or other developmental disabilities the negative behaviors do not subside, and may become worse as the child grows.\n\nScoring Criteria:\nScore 0: Typically does not demonstrate behavior problems that impede learning.\nScore 1: Some minor behavior problems (e.g., occasional crying or whining), brief and recovery is quick.\nScore 2: A variety of minor negative behaviors every day (e.g., crying, verbal refusal, falling to the floor).\nScore 3: More severe and frequent negative behavior (e.g., tantrums, throwing things, property destruction).\nScore 4: Negative behaviors occur several times a day and present a danger to himself or others.",
+  //    "options": [
+  //      {
+  //        "text": "Does not demonstrate any significant negative behaviors",
+  //        "order": 0,
+  //        "score": 0
+  //      },
+  //      {
+  //        "text": "Engages in some minor negative behaviors weekly, but recovery is quick",
+  //        "order": 1,
+  //        "score": 1
+  //      },
+  //      {
+  //        "text": "Emits a variety of minor negative behaviors daily (e.g., crying, verbal refusal, falling to the floor)",
+  //        "order": 2,
+  //        "score": 2
+  //      },
+  //      {
+  //        "text": "Emits more severe negative behavior daily (e.g., tantrums, throwing things, property destruction)",
+  //        "order": 3,
+  //        "score": 3
+  //      },
+  //      {
+  //        "text": "Often emits severe negative behavior that is a danger to himself or others (e.g., aggression, self-injury)",
+  //        "order": 4,
+  //        "score": 4
+  //      }
+  //    ]
+  //  },
+  //  {
+  //    "text": "Instructional Control",
+  //    "sectionId": 3,
+  //    "order": 2,
+  //    "guide": "إرشادات التسجيل لتقييم العوائق\n\n2. Instructional Control (Escape and Avoidance of Instructional Demands)\n\nInstructional control is when a teacher (or parent, aide, OT, etc.) asks a child to do something and he complies.\n\nScoring Criteria:\nScore 0: Typically cooperative with adult instructions and demands.\nScore 1: Some demands evoke minor noncompliant behavior, but recovery is quick.\nScore 2: Emits noncompliant behavior a few times a day with minor tantrums.\nScore 3: Progression towards more persistent and severe instructional control problems.\nScore 4: Noncompliant behavior is a major issue everyday with strong behaviors.",
+  //    "options": [
+  //      {
+  //        "text": "Typically cooperative with adult instructions and demands",
+  //        "order": 0,
+  //        "score": 0
+  //      },
+  //      {
+  //        "text": "Some demands will evoke minor noncompliant behavior, but recovery is quick",
+  //        "order": 1,
+  //        "score": 1
+  //      },
+  //      {
+  //        "text": "Emits noncompliant behavior a few times a day, with minor tantrums, or other minor behaviors",
+  //        "order": 2,
+  //        "score": 2
+  //      },
+  //      {
+  //        "text": "Emits noncompliant behavior several times a day, with longer tantrums and more severe behaviors",
+  //        "order": 3,
+  //        "score": 3
+  //      },
+  //      {
+  //        "text": "Noncompliant behavior dominates the child's day, negative behaviors can be severe and dangerous",
+  //        "order": 4,
+  //        "score": 4
+  //      }
+  //    ]
+  //  }
+  //]
+
+
+  
+    "questions": [
+      {
+        "text": "Behavior Problems",
+        "sectionId": 3,
+        "order": 1,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n1. Negative Behaviors\n\nMost children exhibit some form of negative behavior during their early development (e.g., whining, crying, tantruming, aggression). Usually, these behaviors subside in frequency and are replaced with other more acceptable behaviors (e.g., language and socialization). However, for some children with autism or other developmental disabilities the negative behaviors do not subside, and may become worse as the child grows.\n\nScoring Criteria:\nScore 0: Typically does not demonstrate behavior problems that impede learning.\nScore 1: Some minor behavior problems (e.g., occasional crying or whining), brief and recovery is quick.\nScore 2: A variety of minor negative behaviors every day (e.g., crying, verbal refusal, falling to the floor).\nScore 3: More severe and frequent negative behavior (e.g., tantrums, throwing things, property destruction).\nScore 4: Negative behaviors occur several times a day and present a danger to himself or others.",
+        "options": [
+          {
+            "text": "Does not demonstrate any significant negative behaviors",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Engages in some minor negative behaviors weekly, but recovery is quick",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Emits a variety of minor negative behaviors daily (e.g., crying, verbal refusal, falling to the floor)",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Emits more severe negative behavior daily (e.g., tantrums, throwing things, property destruction)",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Often emits severe negative behavior that is a danger to himself or others (e.g., aggression, self-injury)",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Instructional Control",
+        "sectionId": 3,
+        "order": 2,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n2. Instructional Control (Escape and Avoidance of Instructional Demands)\n\nInstructional control is when a teacher (or parent, aide, OT, etc.) asks a child to do something and he complies.\n\nScoring Criteria:\nScore 0: Typically cooperative with adult instructions and demands.\nScore 1: Some demands evoke minor noncompliant behavior, but recovery is quick.\nScore 2: Emits noncompliant behavior a few times a day with minor tantrums.\nScore 3: Progression towards more persistent and severe instructional control problems.\nScore 4: Noncompliant behavior is a major issue everyday with strong behaviors.",
+        "options": [
+          {
+            "text": "Typically cooperative with adult instructions and demands",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Some demands will evoke minor noncompliant behavior, but recovery is quick",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Emits noncompliant behavior a few times a day, with minor tantrums, or other minor behaviors",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Emits noncompliant behavior several times a day, with longer tantrums and more severe behaviors",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Noncompliant behavior dominates the child's day, negative behaviors can be severe and dangerous",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Mand",
+        "sectionId": 3,
+        "order": 3,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n3. Absent, Weak, or Impaired Mand Repertoire\n\nAn absent, weak, or impaired mand repertoire is a significant barrier because manding serves several important functions for a child.\n\nScoring Criteria:\nScore 0: Mand repertoire growing consistently and in proportion with other milestones.\nScore 1: Mands occur but tact/LD scores higher than mand scores.\nScore 2: Mands limited to consumable reinforcers despite strong other skills.\nScore 3: Mands prompt bound, rote, scrolling, negative behaviors function as mands.\nScore 4: No effective mands with associated negative behaviors.",
+        "options": [
+          {
+            "text": "The mand repertoire is growing consistently and is in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Mands occur, echoics are strong, but the tact and listener skills (LDs) Milestone scores are higher than the mand",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Mands are limited to a small set of consumable reinforcers, despite strong tacts, LDs, and echoic skills",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Mands are very limited, are prompt bound, are rote, scrolling occurs, responses do not match the motivating operations (MOs), negative behaviors function as mands, excessive or inappropriate mands occur",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "No effective mands, associated negative behaviors, same problems in #3 above may occur",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Tact",
+        "sectionId": 3,
+        "order": 4,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n4. Absent, Weak, or Impaired Tact Repertoire\n\nThe tact repertoire can become impaired when wrong nonverbal stimulus acquires control or complex tacts are difficult.\n\nScoring Criteria:\nScore 0: Tact repertoire growing consistently and in proportion with other milestones.\nScore 1: Tacts occur but listener skills markedly outnumber tacts.\nScore 2: Tact errors, prompt bound, scrolling, maintenance required.\nScore 3: Many tact errors, stuck at nouns/verbs, no spontaneity, fails to generalize.\nScore 4: Minimal tact skills despite strong echoic/LD skills.",
+        "options": [
+          {
+            "text": "The tact repertoire is growing consistently and is in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Tacts occur, echoics are strong, but listener skills (LDs) markedly outnumber tacts",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Tact errors occur, strong echoic and LDs, tacts are prompt bound or scrolled, maintenance required",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Many tact errors occur, echoic and LDs are strong, stuck at nouns and verbs, rote tacts, single word tacts despite multiple-word LDs, no spontaneity, fails to generalize",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Minimal tact skills despite strong echoic and LDs, many failed attempts at teaching tacts",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Imitation",
+        "sectionId": 3,
+        "order": 5,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n5. Absent, Weak, or Impaired Motor Imitation\n\nMotor imitation plays important role in play, social development, and self-help skills.\n\nScoring Criteria:\nScore 0: Motor imitation growing consistently and in proportion with milestones.\nScore 1: Motor imitation occurs but scores lower than other milestone skills.\nScore 2: Imitation doesn't generalize easily, dependence on prompts.\nScore 3: Imitation prompt bound physically/verbally, weak MOs to imitate.\nScore 4: No functional imitation skills.",
+        "options": [
+          {
+            "text": "The motor imitation repertoire is growing consistently and is in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Motor imitation occurs, but the scores are lower than those on the other Milestone skills",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Imitation doesn't easily generalize, is inappropriate, or there is a dependence on imitative prompts",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Imitation is prompt bound physically or verbally, weak MOs to imitate, has abilities in other areas",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Has no imitation skills, or does have imitation skills but they never occur in any functional way",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Echoic",
+        "sectionId": 3,
+        "order": 6,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n6. Absent, Weak, or Impaired Echoic Repertoire\n\nEchoic ability is crucial for language development and transfer to other verbal operants.\n\nScoring Criteria:\nScore 0: Echoic repertoire growing consistently and in proportion with milestones.\nScore 1: Echoics occur but motor imitation stronger than echoic.\nScore 2: Dependent on echoic prompts, difficult transfer/generalization.\nScore 3: Echolalia/delayed echolalia, extensive teaching required.\nScore 4: No echoic skills despite other abilities.",
+        "options": [
+          {
+            "text": "The echoic repertoire is growing consistently and is in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Echoics occur, but motor imitation is markedly stronger than echoic",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Dependent on echoic prompts, transfer from echoics is difficult, failure to generalize echoic skills",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Demonstrates echolalia or delayed echolalia, require extensive teaching to acquire new echoics",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "No echoic skills, but has other skills, uses signs or PECS, echoic training may evoke negative behaviors",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired VP-MTS",
+        "sectionId": 3,
+        "order": 7,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n7. Absent, Weak, or Impaired Visual Perceptual Skills and Matching-to-Sample\n\nVisual perceptual and matching skills are foundational for many learning tasks.\n\nScoring Criteria:\nScore 0: VP-MTS growing consistently and in proportion with milestones.\nScore 1: Matching occurs but scores lower than other skills.\nScore 2: Matching errors due to scrolling, position bias, poor scanning.\nScore 3: Negative behavior during MTS, limited to small arrays.\nScore 4: No matching skills despite repeated teaching attempts.",
+        "options": [
+          {
+            "text": "Visual and matching skills are growing consistently and are in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Matching occurs, but scores are lower than those on the other Milestone skills, especially LD scores",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Matching errors occur, due to scrolling, side or position bias, poor scanning, or selects the last item reinforced",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Negative behavior during MTS, no generalization, only small arrays, problems with similar stimuli",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "No matching skills, but has other skills, repeated failed attempts to teach MTS, escape and avoidance occurs",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Listener",
+        "sectionId": 3,
+        "order": 8,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n8. Absent, Weak, or Impaired Listener Repertoires\n\nListener skills involve attending, reinforcing speakers, and demonstrating understanding.\n\nScoring Criteria:\nScore 0: Listener repertoires growing consistently and in proportion with milestones.\nScore 1: LDs occur but scores lower than other milestone skills.\nScore 2: LD errors due to scrolling, position bias, poor scanning.\nScore 3: Negative behavior, no generalization, problems with complex stimuli.\nScore 4: No LD skills despite repeated teaching attempts.",
+        "options": [
+          {
+            "text": "The listener repertoires are growing consistently and are in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "LDs occur, but scores are lower than those on the other Milestone skills, especially tact scores",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "LD errors occur due to scrolling, side or position bias, poor scanning, or selects the last item reinforced",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Negative behavior occurs, no generalization, only small arrays, problems with complex verbal stimuli",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "No LD skills, but has other skills, repeated failed attempts to teach LD, escape and avoidance occurs",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Intraverbal",
+        "sectionId": 3,
+        "order": 9,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n9. Absent, Weak, or Impaired Intraverbal Repertoire\n\nIntraverbal behavior is most complex verbal operant and prone to impairment.\n\nScoring Criteria:\nScore 0: Intraverbal repertoire growing consistently and in proportion with milestones.\nScore 1: Intraverbals occur but scores lower than tact/LD/LRFFC.\nScore 2: Frequent errors, rote responding, scrolling, prompt bound.\nScore 3: Limited progress, frequent errors, quickly forgotten, no generalization.\nScore 4: No functional intraverbal behavior despite strong other skills.",
+        "options": [
+          {
+            "text": "The intraverbal repertoire is growing consistently and is in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Intraverbals occur, but scores are lower than other Milestone scores, especially tact, LD, and LRFFC",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Intraverbal errors occur, rote responding, scrolling, prompt bound, no spontaneity, or echolalia occurs",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Limited progress in intraverbal training, frequent errors, rote responding, intraverbals are quickly forgotten, no generalization, no peer intraverbal behavior, but has mand, tact, and LD skills",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "No functional intraverbal behavior, or has strong rote responding, despite mand, tact, and LD skills",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Social Skills",
+        "sectionId": 3,
+        "order": 10,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n10. Absent, Weak, or Impaired Social Skills\n\nSocial skills development can be affected by many barriers including weak MOs for social interaction.\n\nScoring Criteria:\nScore 0: Social skills age-appropriate and growing consistently.\nScore 1: Social behavior occurs but falls behind other milestone scores.\nScore 2: Parallel play, rarely initiates or imitates peers.\nScore 3: Doesn't take turns/share, doesn't respond to peer mands.\nScore 4: Mostly plays alone, no interactions with peers.",
+        "options": [
+          {
+            "text": "Social skills are age-appropriate, growing consistently, and in proportion with the other Milestones",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Social behavior occurs, but the scores fall behind the other Milestone scores",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Engages in parallel play, but does not initiate social interaction, rarely imitates or mands to peers",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Doesn't take turns or share, does not respond to peer's mands, or cooperate with peers, does not engage in social or imaginary play with peers, but has language skills",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Mostly plays by himself, no verbal or nonverbal interactions with peers, other skills may be high",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Prompt Dependent",
+        "sectionId": 3,
+        "order": 11,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n11. Prompt Dependent\n\nPrompt dependency occurs when child becomes reliant on prompts and cannot respond independently.\n\nScoring Criteria:\nScore 0: Consistently learns new skills without prompt dependency.\nScore 1: Takes several trials to fade prompts but transfer successful.\nScore 2: Some skills become prompt bound (intraverbal, social, listener).\nScore 3: Difficult to eliminate prompts, often subtle prompts used.\nScore 4: Most skills prompt bound by echoic/imitative/verbal prompts.",
+        "options": [
+          {
+            "text": "Consistently learns new skills, and does not show signs of prompt dependency",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "It often takes several trials to fade prompts, but the transfer of control process is typically successful",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Some skills become prompt bound, such as intraverbal, social behaviors, or listener discriminations",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "It is typically difficult to eliminate prompts, they are often subtle, and verbal skills are limited",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Prompts are very difficult to fade, most skills are prompt bound by echoic, imitative, or verbal prompts",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Scrolling",
+        "sectionId": 3,
+        "order": 12,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n12. Scrolling Responses\n\nScrolling is when child emits multiple previously reinforced responses before correct response.\n\nScoring Criteria:\nScore 0: No scrolling in any repertoire.\nScore 1: Occasional scrolling with new words, stops after few trials.\nScore 2: Frequent scrolling problem, takes many trials to stop.\nScore 3: Scrolling resurfaces with previously acquired words.\nScore 4: Scrolling occurs almost every trial.",
+        "options": [
+          {
+            "text": "Does not scroll in any of the repertoires",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Scrolling occasionally occurs when new words are added, but scrolling stops after a few trials",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Scrolling is a frequent problem, it takes many trials to stop, but eventually new words are learned",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Scrolling continues to re-surface with previously \"acquired\" words, and occurs with either (or all) mand, tact, LD, and intraverbal, but not with echoic or imitation, very few new words are learned",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Scrolling occurs almost every trial, attempts at stopping scrolling may have a long history of failure",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Scanning",
+        "sectionId": 3,
+        "order": 13,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n13. Impaired Scanning Skills\n\nScanning visual arrays is required for MTS, LD, and LRFFC tasks.\n\nScoring Criteria:\nScore 0: Typically scans arrays when required.\nScore 1: Large arrays cause some trouble but successful after 2 attempts.\nScore 2: Weak scanning, needs prompting, limited to arrays of 5 or less.\nScore 3: Limited to arrays of 2-3, selection prompt bound.\nScore 4: Does not scan, responds before scanning, evokes negative behavior.",
+        "options": [
+          {
+            "text": "Typically scans arrays if the task requires scanning",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Large arrays with similar stimuli cause some scanning trouble, but is successful after 2 attempts",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Scanning is weak, often needs to be prompted, restricted to arrays of 5 or less, limited scene scanning",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Scanning is limited to an array of 2 or 3, selection responses are prompt bound, weak MTS, LD, and LRFFC",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Does not scan arrays, responds before scanning, scanning tasks evoke negative behavior when pressed",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Conditional Discrimination",
+        "sectionId": 3,
+        "order": 14,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n14. Failure to Make Conditional Discriminations\n\nConditional discriminations involve multiple interlocking contingencies.\n\nScoring Criteria:\nScore 0: Makes CDs at level balanced with milestone scores.\nScore 1: Trouble with CDs requiring more effort/attending.\nScore 2: Limited progress on verbal CDs but good in other areas.\nScore 3: Fails most CD tasks except MTS, emits negative behavior.\nScore 4: Does not make CDs but can do simple discriminations.",
+        "options": [
+          {
+            "text": "Makes conditional discriminations at a level that is in balance with his Milestone scores",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Has trouble when the CD requires more effort or attending (e.g., large arrays, scenes, similar stimuli)",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Limited progress on tasks that involve verbal CDs, (LD, LRFFC, IV), but good progress in other areas",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Fails at most tasks that involve CDs (except MTS), emits negative behavior, history of failed attempts",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Does not make CDs, but can do simple discriminations (e.g., single mands, echoics, tacts, imitation)",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Failure to Generalize",
+        "sectionId": 3,
+        "order": 15,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n15. Failure to Generalize\n\nGeneralization problems across stimulus/response are common barriers.\n\nScoring Criteria:\nScore 0: Demonstrates generalization commensurate with other skills.\nScore 1: Some difficulty with stimulus generalization or certain skills.\nScore 2: Requires formal generalization training on most skills.\nScore 3: Extensive training required, often loses generalized skills.\nScore 4: Does not generalize beyond simple types, rote responding.",
+        "options": [
+          {
+            "text": "Demonstrates both stimulus and response generalization at a level commensurate with his other skills",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Demonstrates some difficulty with stimulus generalization, or generalizing with certain skills",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Requires formal generalization training on most skills, but eventually gets it",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Requires extensive generalization training across most skills, often \"generalized\" skills are lost",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Does not generalize, other than very simple types (e.g., time, settings) rote responding, slow progress",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Weak Motivators",
+        "sectionId": 3,
+        "order": 16,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n16. Weak or Atypical Motivating Operations\n\nLimited or odd MOs make teaching difficult.\n\nScoring Criteria:\nScore 0: Wide range of age-appropriate MOs.\nScore 1: Motivators slightly different from typical children.\nScore 2: MOs for odd behaviors, weak social MOs.\nScore 3: Aberrant MOs, values decrease quickly.\nScore 4: Very limited MOs, strong odd MOs.",
+        "options": [
+          {
+            "text": "Demonstrates a wide range of age-appropriate MOs",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Adults begin to notice that the motivators are slightly different from those of other children",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "MOs for odd behavior patterns, weak MOs for age-appropriate reinforcers, weak social MOs",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Aberrant MOs for unlearned reinforcers, values of existing MOs decrease quickly, stereotypically strong",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Very limited MOs, odd MOs that are strong, very few age-appropriate MOs",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Response Requirement Weakens MO",
+        "sectionId": 3,
+        "order": 17,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n17. Response Requirement Weakens the MO\n\nResponse effort can weaken motivation for reinforcers.\n\nScoring Criteria:\nScore 0: Does not lose interest with reasonable demands.\nScore 1: Some lack of interest with slightly higher demands.\nScore 2: Tolerates small set of responses before losing interest.\nScore 3: Quick lack of interest after few responses.\nScore 4: Walks away from strongest reinforcers with slightest demand.",
+        "options": [
+          {
+            "text": "Does not typically lose interest in reinforcers when the demands are reasonable",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Demonstrates some lack of interest if the demands become slightly higher",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Has strong MOs, but will only tolerate a small set of responses before losing interest in the reinforcer",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Quick to show lack of interest after a few responses are required",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Walks away from his strongest reinforcers if the slightest demand is placed upon him",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Reinforcer Dependent",
+        "sectionId": 3,
+        "order": 18,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n18. Reinforcement Dependent\n\nDependency on continuous/consumable reinforcement hinders skill maintenance.\n\nScoring Criteria:\nScore 0: No problem moving to intermittent/social reinforcers.\nScore 1: Some difficulty but eventually transitions.\nScore 2: Requires frequent consumable reinforcers on intermittent schedule.\nScore 3: Difficult without frequent consumables, exhibits escape behavior.\nScore 4: Dependent on consumables after each response.",
+        "options": [
+          {
+            "text": "Has no problem with moving to intermittent reinforcement or to social and verbal reinforcers",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Demonstrates some difficulty with moving to social or intermittent reinforcers, but eventually does so",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Requires frequent consumable and tangible reinforcers on an intermittent schedule",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Difficult to work with the child without using frequently delivered consumable and tangible reinforcement, exhibits escape or avoidance behavior",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Dependent on consumable and tangible reinforcers delivered after each response for learning to occur",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Self-Stimulation",
+        "sectionId": 3,
+        "order": 19,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n19. Self-Stimulation\n\nSelf-stimulatory behaviors can compete with learning activities.\n\nScoring Criteria:\nScore 0: No self-stimulatory behaviors.\nScore 1: Some self-stimulation but doesn't compete with activities.\nScore 2: Relatively high rate that sometimes competes.\nScore 3: High rate competing with learning/social activities.\nScore 4: Almost constant self-stimulation, other reinforcers weak.",
+        "options": [
+          {
+            "text": "Does not engage in self-stimulatory or repetitive behaviors",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Engages in some self-stimulation, but it doesn't compete with other activities",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Engages in a relatively high rate of self-stimulation that often competes with other activities",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Engages in a high rate of self-stimulation that competes with learning and social activities",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Almost constantly engages in a high rate of self-stimulation, other reinforcers are weak",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Impaired Articulation",
+        "sectionId": 3,
+        "order": 20,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n20. Articulation Problems\n\nSevere articulation problems may require augmentative communication.\n\nScoring Criteria:\nScore 0: Most adults understand child's vocal behavior.\nScore 1: Some pronunciation difficulty but usually understood.\nScore 2: Difficulty understood by strangers despite Level 2 milestones.\nScore 3: Very limited vocal skills with wide articulation errors.\nScore 4: Non-vocal or completely unintelligible speech.",
+        "options": [
+          {
+            "text": "Most adults can understand the child's existing vocal behavior",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Some difficulty pronouncing certain words, but usually can be understood, and articulation improves",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Has difficulty being understood by strangers, despite having mostly Level 2 Milestone scores",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Very limited vocal skills and demonstrates a wide variety of articulation errors",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Non-vocal, or has completely unintelligible speech, despite other elevated Milestone scores",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Obsessive-Compulsive Behavior",
+        "sectionId": 3,
+        "order": 21,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n21. Obsessive-Compulsive Behavior\n\nObsessions can compete with instructional control.\n\nScoring Criteria:\nScore 0: No obsessive behaviors impeding learning.\nScore 1: Minor obsessions easily overcome.\nScore 2: Several obsessions with mild negative behavior when blocked.\nScore 3: Strong obsessions disrupting learning.\nScore 4: Obsessions major focus of day, severe negative behavior.",
+        "options": [
+          {
+            "text": "Does not demonstrate any obsessive behaviors that impede learning",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Some minor obsessions, but they are easily overcome and don't interfere with learning",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Several obsessions, emits mild negative behaviors when not met, but will usually comply and participate in the learning tasks without further disruption",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Several obsessions, emits negative behavior, but often will not comply without completing the obsession, and learning is disrupted",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Strong obsessions are the major focus of each day, they may consume a significant amount of time, negative behaviors may be severe if they are not met, and learning is regularly disrupted",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Hyperactive Behavior",
+        "sectionId": 3,
+        "order": 22,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n22. Hyperactive Behavior\n\nHyperactivity affects attention and learning.\n\nScoring Criteria:\nScore 0: Not excessively hyper, attends without difficulty.\nScore 1: Occasional hyperactivity, not disruptive.\nScore 2: Frequent movement, restless, difficulty attending.\nScore 3: Difficult to control, requires frequent prompting.\nScore 4: Constantly on the go, learning seriously affected.",
+        "options": [
+          {
+            "text": "Not excessively hyper compared to typically developing peers, attends to tasks without difficulty",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Occasionally emits hyperactive behavior or fails to attend, but the behaviors are not disruptive to learning or daily activities",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Moves around the environment frequently, restless, difficulty attending to tasks, learning is disrupted",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Often difficult to control the hyperactive behavior, may not wait in line, sit calmly, or stay on task longer than a couple of minutes, requires frequent prompting",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Constantly \"on the go,\" fidgety, impulsive, climbs or jumps on furniture, may talk excessively, difficult to keep engaged in any academic or social activity, learning is seriously affected",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Failure to Make Eye Contact",
+        "sectionId": 3,
+        "order": 23,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n23. Failure to Make Eye Contact\n\nEye contact is crucial for social communication.\n\nScoring Criteria:\nScore 0: Age-appropriate eye contact.\nScore 1: Adults notice different eye contact.\nScore 2: Infrequent eye contact, attends more to objects.\nScore 3: No eye contact while manding, difficult to obtain.\nScore 4: Almost never makes eye contact, avoids people.",
+        "options": [
+          {
+            "text": "Makes age-appropriate eye contact with others, and attends to other people",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Adults begin to notice that eye contact is different from that of other children",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Does not make frequent eye contact, or attend to faces or people in a manner similar to other children",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "No eye contact while manding, difficult to get any eye contact, typically looks away when talking to others, attends more to objects than people",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Almost never makes eye contact, avoids people, but may have verbal skills",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "text": "Sensory Defensiveness",
+        "sectionId": 3,
+        "order": 24,
+        "guide": "إرشادات التسجيل لتقييم العوائق\n\n24. Sensory Defensiveness\n\nHypersensitivity to sensory stimuli can interfere with learning.\n\nScoring Criteria:\nScore 0: No problems related to sensory stimuli.\nScore 1: Adults notice different sensitivity to sensory stimuli.\nScore 2: Mild defensiveness, doesn't usually interfere with learning.\nScore 3: Frequent escape behavior to specific sensory stimuli.\nScore 4: Consistent negative behavior to sensory stimuli.",
+        "options": [
+          {
+            "text": "No problems related to sensory stimuli",
+            "order": 0,
+            "score": 0
+          },
+          {
+            "text": "Adults begin to notice that sensitivity to various sensory stimuli is different from that of other children",
+            "order": 1,
+            "score": 1
+          },
+          {
+            "text": "Certain sensory stimulation may affect the child, but the defensiveness is mild and does not usually interfere with learning activities",
+            "order": 2,
+            "score": 2
+          },
+          {
+            "text": "Frequently reacts to specific sensory stimuli with escape behavior such as hands over ears, closing eyes, or getting agitated",
+            "order": 3,
+            "score": 3
+          },
+          {
+            "text": "Consistently reacts to specific sensory stimuli with negative behavior such as tantrums and aggression, presence of certain sensory stimuli competes with educational activities",
+            "order": 4,
+            "score": 4
+          }
+        ]
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,598 @@
+{
+  "questions": [
+    {
+      "text": "VB-MAPP Milestones Score",
+      "sectionId": 4,
+      "order": 1,
+      "guide": "1. Overall VB-MAPP Milestones Assessment Score\n\nPerhaps one of the most significant problems related to a successful transition to a less restrictive environment for a child is being placed in a classroom where the daily verbal content is beyond his comprehension level. The placement may be of some value (e.g., offering social modeling and peer interaction), but if the child’s skills are significantly below those of the other children in the classroom, it is unlikely that he will be able to access the curriculum content and learn along with the other children. Thus, valuable educational time and possibly skills may be lost. The overall score on the VB-MAPP Milestones Assessment can provide a foundation for making decisions regarding placement. While all children with special needs can benefit from regular contact and integration with typically developing peers, the issue is to determine what are the educational priorities for an individual child and which teaching format and educational setting can deliver an intervention program that meets those priorities.\n\nScoring Criteria and Placement Suggestions\nIf a child’s overall scores on the VB-MAPP Milestones Assessment primarily fall in Level 1, he is still in need of an intensive and specialized intervention program. This program can be in-home, in a specialized classroom, or a combination of both; it should also be the focus of his prime learning time (usually in the morning or after a nap for young children). Peer interaction, while important, may not be a major priority at this time, but could occur later in the day and in less formal activities (e.g., play dates, parks, and after school pre-schools for younger children). For more specific information on curriculum placement for a child who scores primarily in Level 1, see Chapter 8. As stated before, it is up to the IEP team to determine what is in the best interest of the child.",
+      "options": [
+        {
+          "text": "Scores 0 to 25 on the Milestones Assessment",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Scores 26 to 50 on the Milestones Assessment",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Scores 51 to 100 on the Milestones Assessment",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Scores 101 to 135 on the Milestones Assessment",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Scores 136 to 170 on the Milestones Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "VB-MAPP Barriers Score",
+      "sectionId": 4,
+      "order": 2,
+      "guide": "2. Overall VB-MAPP Barriers Assessment Score\n\nThe Barriers Assessment is designed to identify language and learning barriers that impede skill acquisition (see Chapter 6). These barriers need to be reduced or removed and often constitute a major part of the child’s daily intervention program (e.g., prompt dependency, behavior problems, self-stimulation, hyperactive behavior, and non-compliance). Often, it is these barriers that constitute the biggest obstacle for a child’s transition to a less restrictive educational setting.\n\nScoring Criteria and Placement Suggestions\nA high score on the overall Barriers Assessment (31 to 96) suggests that the child is experiencing several barriers and needs a program that is designed to focus on reducing or removing them. That program is likely to be more restrictive due to the types of interventions necessary. For example, if a child has failed to acquire an intraverbal repertoire despite having acquired hundreds of tacts and listener skills, a carefully designed intraverbal program is necessary. Teaching intraverbal behavior is often quite difficult and requires a high teacher-to-student ratio, staff with specialized skills, careful teaching procedures, and close monitoring because the probability of developing rote intraverbals is often quite high. A lower score on the Barriers Assessment (30 or less) suggests a less restrictive placement may be successful, depending on the specific barriers. For example, significant negative behaviors often limit options and thus an additional measure for these barriers is provided below (behavior problems and instructional control issues are scored twice in the Transition Assessment).",
+      "options": [
+        {
+          "text": "Scores 56 to 96 on the Barriers Assessment",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Scores 31 to 55 on the Barriers Assessment",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Scores 21 to 30 on the Barriers Assessment",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Scores 11 to 20 on the Barriers Assessment",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Scores 0 to 10 on the Barriers Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Negative Behaviors and Instructional Control",
+      "sectionId": 4,
+      "order": 3,
+      "guide": "3. VB-MAPP Barriers Assessment Score on Negative Behaviors and Instructional Control\n\nBehavior problems such as screaming, aggression, property destruction, and refusing to participate in activities will seriously limit a child’s access to less restrictive settings. These behaviors make it very difficult to teach a child, and may constitute safety issues for the child as well as others in the classroom. Teachers may not be trained in the appropriate behavior management techniques needed to analyze and change severe behavior problems and may not have the support available. Also, an integrated classroom setting may not be conducive to changing the behavior, and for a variety of reasons may exacerbate the behavior problem. For example, if a child is required to sit in a morning circle, but does not want to and starts tantruming, the common practice is to remove him from the circle (usually followed by one-on-one aide time) so the teacher and other children can proceed with their educational program. However, the target child’s negative behavior gets reinforced (by removal of demand), and the tantrum is likely to occur again under similar circumstances. The alternative intervention of leaving him in the circle (not removing the demand) may be clinically correct, but may prevent the teacher from instructing the other children. There can be many potential causes for negative behavior in a less restrictive setting, and these must be analyzed and ameliorated as part of the placement process. Placement too soon, or without the necessary trained support, can jeopardize future placement.\n\nScoring Criteria and Placement Suggestions\nThe scores from the negative behaviors and instructional control subsections of the VB-MAPP Barriers Assessment can be used to scale the child’s abilities in these areas as they relate to transition. The scores from these subsections of the Barriers Assessment should be converted to match the others on the Transition Assessment. For example, if a child receives a combined total score of 6 points on the negative behaviors and instructional control area of the VB-MAPP Barriers Assessment, he would be given a score of 1 on the Transition Assessment. The complete criteria for the 5 levels are contained in the VB-MAPP Transition Assessment Protocol scoring forms. The assessor should use these scores for conversion.",
+      "options": [
+        {
+          "text": "A total score of 6 or 7 on negative behaviors and instructional control on Barriers Assessment",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "A total score of 5 on negative behaviors and instructional control on the Barriers Assessment",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "A total score of 3 or 4 on negative behaviors and instructional control on the Barriers Assessment",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "A total score of 2 on negative behaviors and instructional control on the Barriers Assessment",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "The child has no behavioral issues, demonstrated by a score of 0 or 1 on Barriers Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Classroom Routine",
+      "sectionId": 4,
+      "order": 4,
+      "guide": "4. VB-MAPP Milestones Assessment Score on Classroom Routines and Group Skills\n\nA major component of moving along the continuum of least restrictive settings is the child’s ability to follow classroom routines and learn in a group-teaching format. If a child requires extensive prompting and reinforcement to transition and participate in daily classroom activities, then more teacher resources are necessary. Regarding group responding, early learners whose scores fall primarily in Level 1 and early Level 2 of the VB-MAPP Milestones Assessment may learn best with a 1:1 or 1:2 teacher-to-student ratio. A high ratio is required because of the need to implement careful teaching procedures involving prompting, fading, shaping, and rich schedules of reinforcement that often require small steps and numerous teaching trials. The number of trials necessary to move the child forward cannot easily be provided in a larger ratio. However, as the child’s skills progress to where, for example, less prompting and fading are necessary and new skill acquisition occurs in relatively fewer teaching trials, there are several advantages of moving away from exclusive reliance on a 1:1 or 1:2 teaching model. These issues are described in detail in Chapter 8 in the sections on placement as it relates to classroom routines and group skills.\n\nScoring Criteria and Placement Suggestions\nThe scores on the Classroom Routines and Group Skills subsections of the VB-MAPP Milestones Assessment can be used to scale the child’s abilities in these areas as they relate to transition. The scores from these subsections of the Milestones Assessment should be converted to match the others on the Transition Assessment. For example, if a child receives a total score of 3 points on the classroom routines and group skills area of the VB-MAPP Milestones Assessment, he would be given a score of 2 on the Transition Assessment (note that these 3 points can come from any item on the classroom routines and group skills subsection, that is, they do not need to be restricted to just items 1, 2, and 3). The complete conversion criteria for the 5 levels of the Transition Assessment are contained in the Protocol scoring forms.",
+      "options": [
+        {
+          "text": "Scores 2 points on classroom routines and group skills in the Milestones Assessment",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Scores 3 to 4 points on classroom routines and group skills in the Milestones Assessment",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Scores 5 to 7 points on classroom routines and group skills in the Milestones Assessment",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Scores 8 to 9 points on classroom routines and group skills in the Milestones Assessment",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Scores 10 points on the classroom routines and group skills in the Milestones Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Social Skills and Social Play",
+      "sectionId": 4,
+      "order": 5,
+      "guide": "5. VB-MAPP Milestones Assessment Score on Social Behavior and Social Play\n\nThere are many opportunities for developing social skills in a classroom setting. Many of these opportunities are not available in an in-home program. Given that social behavior and social play constitute one of the defining hallmarks of autism, a setting that involves a carefully designed social skills program with peers can be quite beneficial for a child. However, the degree to which an individual child can benefit from a given setting—without significant costs to the other parts of his program—varies and must be carefully evaluated by his IEP team.\n\nScoring Criteria and Placement Suggestions\nThere are many factors that must be considered when transitioning children to different educational environments. Often, one setting will not meet all of the child’s needs. Many schools offer a variety of options, such as partial integration with other classrooms or combinations of in- home and school based programs, but each school district is different and has different resources and options available. For example, many small rural school districts do not have a range of classrooms that serve children with special needs and transportation to other districts is prohibitive. Thus, a child’s social needs must be weighed along with language, behavioral, academic, and other skill needs identified in the various VB-MAPP Assessments.",
+      "options": [
+        {
+          "text": "Scores 2 or 3 points on social behavior and social play in the Milestones Assessment",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Scores 4 or 5 points on social behavior and social play in the Milestones Assessment",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Scores 6 to 9 points on social behavior and social play in the Milestones Assessment",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Scores 10 to 12 points on social behavior and social play in the Milestones Assessment",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Scores 13 to 15 points on social behavior and social play in the Milestones Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Independent Academic Work",
+      "sectionId": 4,
+      "order": 6,
+      "guide": "6. Works Independently on Academic Tasks\n\nA major component of a less restrictive classroom is independent academic work, such as completing worksheets, participating in small group projects, and silent reading. During these periods a child is expected to participate in a specified activity or complete an assigned worksheet without teacher prompting to stay on task, or to stop engaging in disruptive behavior. For example, a common activity for a first grade classroom is 3 or 4 small group stations where 4 or 5 children sit at a table and complete writing sheets that contain sample letters and words that are to be copied. The children are usually given their sheet and told to start the assignment. The teacher may go around the room and spend a minute or two with each child, expecting that the other children in the class will continue their work without a teacher standing over their shoulder, or prompting them to work or keep their hands to themselves. In order for a child with special needs to be successful in this type of teaching format, he must be able to independently engage in the assigned activity and wait for attention or assistance. These independent activities increasingly become a daily component of many classrooms, thus they appear in Category 1 of the Transition Assessment. If a child is unable to do independent work, he may require a one-on-one aide during this period. Although a one-to-one aide may be helpful, if steps are not taken to prepair the student for thinner schedules of reinforcement while remaining on task for longer periods of time, it may move the child backwards in terms of a least restrictive setting and placement appropriateness.\n\nScoring Criteria and Placement Suggestions\nGive the child a score of 1 to 5 on independent academic work based on the criteria provided on the Transition Assessment Form. For example, if the child is able to work independently for at least 30 seconds with only 1 adult prompt to stay on task, he should be given a score of 1. If the child can stay on task for 5 minutes without any adult prompts, give him a score of 4. If a child receives a score of 1 on the assessment, he is still in need of independence training, which will require a high teacher-to-student ratio. For this child, integration activities might be restricted to time periods other than independent work activities (e.g., reading stories, sensory motor). If the child scores a 4 or 5, it suggests that he may do well in a classroom that contains independent academic activities (which ultimately occurs in all regular education classrooms).",
+      "options": [
+        {
+          "text": "Works independently on academic tasks for at least 30 seconds with no more than 1 adult prompt",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Works independently on academic tasks for at least 1 minute with no more than 1 adult prompt",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Works independently on academic tasks for at least 2 minutes without adult prompting to stay on task",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Works independently on academic tasks for at least 5 minutes without adult prompting to stay on task",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Works independently on academic tasks for at least 10 minutes without adult prompting to stay on task",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Generalization",
+      "sectionId": 4,
+      "order": 7,
+      "guide": "7. Generalization of Skills Across Time, Settings, Behaviors, Materials, and People\n\nThe process of generalization allows for learning to accelerate rapidly. Initially, many children with language delays must be directly taught each skill, often with the careful arrangement of prompts, fading techniques, and the differential reinforcement of slightly improved responding. Eventually, it often takes only a few trials to acquire a new behavior, and new behaviors begin to occur with little or no training. One of the ways this happens is through the process of generalization. Skinner (1953) noted, \"In reinforcing one operant we often produce a noticeable increase in the strength of another. Training in one area of skilled behavior may improve performance in another\" (p. 94). Stokes and Baer (1977) further elaborated on several aspects of generalization and have provided a framework for its clinical application.\n\nScoring Criteria and Placement Suggestions\nBasically, there are two major types of generalization: stimulus generalization and response generalization. In stimulus generalization a child may learn a response under the control of one specific stimulus (e.g., the tact \"shoe\" for his own shoe), and then without further training tacts a novel stimulus that is in the same stimulus class (e.g., tacts his brother’s shoe without training). There are several circumstances where stimulus generalization occurs. Stokes and Baer (1977) describe how a trained response may occur at different times, in different settings, with different people, and with different materials, all without further training. The second type of generalization is response generalization. Here, a child may learn one response under the control of one stimulus (e.g., tacts a family pet as \"dog\"), then without formal training emits a different but appropriate response under that same stimulus (e.g., he also tacts the family dog by her name, \"Maggie\"). These two types of generalization should be occurring at all levels of the intervention program and across all skill areas (e.g., a child should be able to use a different toilet when toilet trained).",
+      "options": [
+        {
+          "text": "Generalizes a few skills to different people and across time, but not easily across materials",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Generalizes to new materials, but only after extensive generalization (multiple exemplar) training",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Demonstrates spontaneous stimulus generalization in the natural environment on 10 occasions",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Demonstrates spontaneous response generalization in the natural environment on 10 occasions",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Consistently demonstrates both stimulus and response generalization on the first or second trial",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Range of Reinforcers",
+      "sectionId": 4,
+      "order": 8,
+      "guide": "8. Range of Items and Events that Function as Reinforcers\n\nThe most powerful teaching tool available for developing language, learning, and social skills for children with autism or other developmental disabilities is reinforcement. Fortunately, there are over 75 years of accumulated research, applications, and training materials on reinforcement available from the field of Behavior Analysis. One aspect of reinforcement is the variation of items and events that function as reinforcement for a particular individual. A problem for many children with language delays, especially those with autism, is a limited range of reinforcers. Generally, the first types of items and events that function as reinforcement for all children are those related to the innate biological drives (unconditioned motivating operations), such as hunger, thirst, physical contact, warmth, and the removal of pain. The initial technological application to treatment of disabilities that has arisen from this fact was the successful use of food, drinks, and physical contact as reinforcers to shape specific skills in individuals previously thought to be incapable of learning (e.g., Fuller, 1949). Other early reinforcers that are often effective for many individuals are toys, manipulatives, cause-and-effect items, visual movement, and so on. These types of reinforcers also have a long history of successful use in teaching individuals with developmental disabilities (e.g., Meyerson, Michael, Mowrer, Osgood, and Staats, 1963; Wolf, Risley, and Mees, 1964), as well as with typically developing children (e.g., Bijou and Sturges, 1959; Staats, Staats, Schutz, and Wolf, 1962).\n\nScoring Criteria and Placement Suggestions\nUnfortunately, many individuals are never moved beyond reliance on frequent delivery of edible or tangible reinforcers. A goal of an intervention program should be to fade out the reliance on these types of reinforcers and move toward social, automatic (i.e., intrinsic), and other forms of age- appropriate reinforcers. These are the types of reinforcers experienced by typically developing children, and are more likely to occur in a less restrictive classroom. The purpose of the current measure is to assess the range of the target child’s reinforcers.",
+      "options": [
+        {
+          "text": "Reinforcers are frequent and mainly edibles, liquids, and physical contact (unlearned motivators)",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Reinforcers are tangible, sensory, or manipulative such as toys, cause-and-effect objects, music, dolls",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Reinforcers are social (e.g., attention), peer mediated (e.g., games), related to specific places (e.g., parks, stores), and less frequent; it is these learned reinforcers that are mainly used for teaching",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Reinforcers are intermittent, social, automatic, and involve a wide range of items and activities",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Reinforcers are intermittent, social, age appropriate, varied, and involve verbal information and change frequently",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Rate of Skill Acquisition",
+      "sectionId": 4,
+      "order": 9,
+      "guide": "9. Rate of Acquisition of New Skills\n\nThe number of training trials that it takes to acquire a new skill is a common measure in behavioral research, often referred to a \"trials to criteria\" (e.g., Cooper, et al., 2007; Sundberg and Sundberg, 1991). For example, when two teaching procedures are compared to each other, the target skills are balanced out (e.g., teaching a group of 5 different nouns), and one condition might involve imitative prompts while the other condition involves intraverbal prompts. The researcher then records the number of training trials that it takes to reach the target criteria for each of the two different teaching procedures. The visual display of the data will often quickly reveal that one procedure is better than another in teaching a new skill. Thus, the number of teacher trials (and hence the amount of teacher time) that it takes to teach a child new skills can be used as a measure of progression towards a less restrictive educational format. Initially, it may take a hundred trials to teach a child a new tact, but as the child becomes a more proficient learner, the number of trials required for learning new tacts might drop to one or two.\n\nScoring Criteria and Placement Suggestions\nGive the child a score of 1 on the Transition Assessment if he requires several days or weeks of training sessions that may contain hundreds of trials to acquire a new response, but he eventually does so. The scores between 2 and 4 demonstrate a gradual progression toward fewer and fewer training trials necessary to acquire new skills. Give the child a score of 5 if he acquires new skills in only a few training trials. As a child acquires skills more rapidly, the complexity and range of the skills can be increased, and other skills that support successful integration can be developed.",
+      "options": [
+        {
+          "text": "Typically requires two or more weeks of training sessions and hundreds of trials to acquire a new skill",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Requires at least one week of training sessions and 100 or more trials to acquire a new target skill",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Acquires several new target skills a week averaging less than 50 training trials",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Acquires several new target skills a week averaging less than 25 training trials",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Consistently acquires new target skills daily averaging 5 trials or less",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Retention of New Skills",
+      "sectionId": 4,
+      "order": 10,
+      "guide": "10. Retention of New Skills\n\nA child’s ability to retain new skills is an essential component of learning. If the child constantly requires re-training on previously acquired skills, a further analysis of the curriculum and teaching procedures is warranted. Re-teaching may be frequently required because the skills taught are out of developmental, linguistic, or academic sequence (e.g., teaching adjectives before the child has a solid repertoire of nouns), or the target skill was never truly acquired to begin with (e.g., tacting noun-verb combinations with subtle prompts, or from 2D stimuli), or the skill was taught out of any functional context. These are among the most common causes of failure to retain skills, all of which are preventable with a better curriculum sequence and more careful teaching practices. This problem can be seen at all academic levels. For example, an elementary student who cannot retain math facts may not have the basic prerequisite skills for those facts, or the teaching procedures may have involved some inadvertent prompting that resulted in the student being given credit for a repertoire that never broke free from the prompts.\n\nScoring Criteria and Placement Suggestions\nAdditional causes for \"forgetting\" a skill (a common human phenomenon) may be that the skill was not functional to the person to begin with (e.g., learning trigonometry), or the skill was not practiced or generalized enough to maintain it (e.g., hitting a golf ball). An early measure of retention is that the child is able to continue to provide a correct response to a task after a short amount of time has passed. For example, if a child was taught to tact \"wagon\" in a session and ended that session with several correct responses, could he still correctly tact the wagon after a 60 minute period without prompting?",
+      "options": [
+        {
+          "text": "Retains a new skill for at least 10 minutes after it has been scored as correct in a teaching session",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Retains a new skill for at least 1 hour after it has been scored as correct in a teaching session",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Retains a new skill for 24 hours after it has been scored as correct with 5 or less maintenance trials",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Retains acquired skills after a 24-hour period without maintenance trials",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Typically retains acquired skills for at least 1 week without maintenance trials",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Natural Environment Learning",
+      "sectionId": 4,
+      "order": 11,
+      "guide": "11. Learning from the Natural Environment\n\nThe phrase \"natural environment\" has multiple meanings in its relation to teaching and learning. One common use of the phrase involves a description of events occurring outside of a formal teaching arrangement. This use of \"natural environment\" often refers to events related to a child’s day-to-day activities (arts and crafts, eating, social play, recess, car rides, etc.). \"Natural\" is often used as a contrast with the word \"structured.\" However, learning can and should occur in both discrete trial training (structured teaching) and in the child’s natural environment. A second use of the phrase \"natural environment\" is in relation to learning that involves situations where changes in behavior occur without the direct arrangement of contingencies by a teacher, parent, or other individual. The phrase \"natural consequences\" refers to this meaning where, for example, failing to attend to a closing door results in getting one’s fingers pinched, and these naturally occurring negative consequences may make one more attentive next time. Or, blowing correctly on a soapy wand produces bubbles, but blowing too hard makes the bubbles quickly pop, and not blowing hard enough will not produce any bubbles at all. The perfect amount of breath to blow bubbles is shaped by the naturally occurring consequences. The two meanings are not mutually exclusive in that programmed contingencies can occur in both a natural and a contrived setting, and non-programmed (or automatic) contingencies can occur in a natural or contrived setting. Both of these meanings of \"natural environment\" are relevant to a child’s learning.\n\nScoring Criteria and Placement Suggestions\nMuch of the early learning for many children with autism or other developmental disabilities requires structured teaching and careful programming provided by skilled teachers and parents. However, learning usually becomes easier and children begin to acquire new skills without the careful arrangement of prompts and reinforcement, or intensive intervention, thereby increasing the chances of success in a less restrictive setting. Formal instruction is, of course, still necessary, but often new skills begin to emerge and are maintained without direct training. It was previously suggested that generalization was one way that these new skills are strengthened, but another way is learning from events and consequence that occur naturally in a child’s day-to-day contact with a social world, without the arrangement of programmed contingencies. For example, many children learn new skills by the observation of others performing that skill (termed \"observational learning\"). One child may pour sand over a spinning wheel and gain enjoyment watching the wheel spin. Another child then imitates the behavior with his sand and wheel and also gains enjoyment. This new behavior occurs without adult intervention of prompts and reinforcement, but rather through observing the peer, with the reinforcement automatically provided by the spinning wheel. Once skills such as imitation are established (as in structured teaching) they are best maintained by the functional use of the skill and their natural consequences.",
+      "options": [
+        {
+          "text": "Acquires 2 new motor skills in the natural environment without intensive teaching",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Acquires 5 new mands or tacts in the natural environment without intensive teaching",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Acquires 25 new mands or tacts in the natural environment without intensive teaching",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Acquires 25 new intraverbals in the natural environment without intensive teaching",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Easily and consistently learns new skills daily in a natural or group setting without intensive teaching",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Transfer Without Training",
+      "sectionId": 4,
+      "order": 12,
+      "guide": "12. Demonstrates Transfer Between the Verbal Operants Without Training\n\nThere is a solid body of behavioral research that demonstrates that learning one type of verbal behavior (e.g., a tact) does not guarantee transfer to other types of verbal behavior (e.g., a mand) (e.g., Hall and Sundberg, 1987; Lamarre and Holland, 1985; Sigafoos, Doss, and Reichle, 1989; Twyman, 1996; Watkins, Pack-Teixeira, and Howard, 1989). There is also a body of research that shows learning listener skills does not automatically produce transfer to speaker skills (e.g., Guess and Baer, 1973; Lee, 1981). Thus, supporting Skinner’s (1957) basic premise that language is composed of several functionally independent repertoires (for more detailed reviews of the research on the distinction between the verbal operants see Oah and Dickenson, 1989 and Sautter and LeBlanc, 2006).\n\nScoring Criteria and Placement Suggestions\nHowever, it has been pointed out that this separation of skills is most prominent in early language acquisition and eventually a transfer between the verbal operants does automatically occur (e.g., Hall and Sundberg, 1987; Skinner, 1957). For example, once a child has a solid mand and tact repertoire, leaning a new tact (e.g., pinwheel) may result in the transfer of the response to mand conditions without additional training (e.g., later, as a function of an MO for the pinwheel the child mands \"pinwheel\" despite not having a single mand training trial on pinwheel). This effect is termed the \"transfer of control among the verbal skills,\" and represents a significant milestone in language acquisition. Many language-training programs designed for children with autism and other developmental disabilities make extensive use of transfer procedures designed to establish new skills that are based on existing skills (e.g., Greer and Ross, 2007; Sundberg, 1980; Sundberg and Partington, 1998). The goal of these procedures is to achieve untrained transfer between the language skills.",
+      "options": [
+        {
+          "text": "Demonstrates echoic to mand or tact transfer for 2 verbal responses with 2 or less transfer trials",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Demonstrates echoic to mand or tact transfer for 5 verbal responses without transfer trials",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Demonstrates tact to mand transfer for 10 verbal responses without training",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Demonstrates tact to intraverbal transfer for 10 topics or events without training",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Demonstrates transfer daily, involving advanced parts of speech, and all speaker and listener skills",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Adaptability to Change",
+      "sectionId": 4,
+      "order": 13,
+      "guide": "13. Adaptability to Change\n\nMany individuals with developmental disabilities, especially those with autism, have difficulty handling changes in routines or planned activities. However, day-to-day life for most families and classrooms is full of unplanned events. For example, a typical classroom may have a fire drill in the middle of a fun activity, an impromptu assembly may be announced, or recess might not start the exact minute the bell rings. At home a family may decide it’s a nice day to go on a picnic, a relative stops by, or a planned activity must be canceled. A child’s inability to be flexible may cause the family members, classroom teachers, aides, and even fellow classmates to \"walk on eggshells\" around the child, especially if there is the pending threat of severe or embarrassing tantrums, or other negative behavior associated with a change in routine. This way of handling the problem usually results in it getting worse, because the negative behaviors often get reinforced when early signs of distress on the part of the child are followed by a return to the routine. Although some of the child’s resistance to change may initially be from fear and anxiety—and the adult should certainly be sensitive to this— if the child is often placated, the behaviors could become worse. Also, the appropriate skills and emotional coping behaviors that comprise being adaptable to change may never be acquired.\n\nScoring Criteria and Placement Suggestions\nThe child may also verbally perseverate on a change in routine and have difficulty getting back on task. The ability to accept change is another factor to consider in a move to a less restrictive environment. The probability of unexpected changes increases significantly as classrooms move away from highly structured teaching and high teacher-to-student ratios. A child must be able to quickly adapt to the constantly changing nature of many of these classrooms.",
+      "options": [
+        {
+          "text": "Adapts to some minor changes with verbal preparation, but may demonstrate some negative behavior",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Accepts minor changes, shows considerable distress, requires substantial preparation for change",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Becomes annoyed and complains about changes, may perseverate, but ultimately goes with the change",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Adapts to change quickly and without negative behaviors, but shows signs of minor distress",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "The child handles change in routine well, and ignores or copes with other distractions and changes",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Spontaneous Behaviors",
+      "sectionId": 4,
+      "order": 14,
+      "guide": "14. Spontaneous Behaviors\n\nSpontaneity is a relative term that is actually quite complicated when applied to language acquisition. That is, there are many degrees of spontaneity and they apply differently to different behavioral repertoires and situations. The American Heritage Dictionary’s first-listed definition of \"spontaneous\" is, \"Happening or arising without apparent external cause; self-generated.\" The word \"spontaneous\" is an adjective that modifies the word \"behavior;\" it describes a property of the behavior that is emitted, and on the surface the definition suggests that there are no antecedents that cause the behavior. If this is true, it presents a problem if the goal is to teach spontaneous behavior. What are the variables that evoke spontaneous behavior? When is spontaneity appropriate and when is it inappropriate? How does one know when they have established this important repertoire for a language-delayed individual? How is this behavior measured?\n\nScoring Criteria and Placement Suggestions\nIt is beyond the scope of the current treatment of this topic to answer all of these questions. However, an important word in the dictionary definition of spontaneous is \"apparent.\" A suggestion will be made that there are antecedents that evoke spontaneous behavior; however, they often are quite subtle or private (i.e., \"self-generated\"). But a hierarchy of antecedents that identifies the degree of spontaneity can be helpful in determining a specific individual’s existing spontaneous repertoire and its comparison to his typically developing peers. One way to look at spontaneity is in contrast to what is called being \"prompt bound,\" and by identifying a continuum of additional prompts that might be necessary to evoke a particular skill.",
+      "options": [
+        {
+          "text": "Emits some behaviors spontaneously, but most language and social skills are prompted",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Emits many behaviors spontaneously, but they are mostly nonverbal behavior",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Spontaneously (no verbal prompts) mands and tacts several times a day",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Spontaneously emits mand, tact, intraverbal, and verbal social behavior several times a day",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Emits appropriate spontaneous behaviors across most of the 16 areas of the Milestones Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Self-Directed Leisure Time",
+      "sectionId": 4,
+      "order": 15,
+      "guide": "15. Self-directed Play and Leisure Skills: VB-MAPP Milestones Assessment Scores on Independent Play\n\nMost children have little difficulty independently entertaining themselves. After all, play is (by definition) fun. It’s behavior that is automatically reinforcing and usually occurs without adult prompting or reinforcement. Children do, of course, \"get bored\" when the available choices of play and leisure activities are limited, or of less value than adult attention. Perhaps surprisingly, self- directed play and leisure behaviors are a component of most educational settings. There are many times in a classroom where there is non-directed time, such as recess, adult clean-up after snack and lunch, silent reading time, or during classroom disruptions (e.g., visitors, meetings). Even some elements of a structured teaching session with a 1:2 teacher-to-student ratio may involve working a few minutes with one child, then a few minutes with the other child. The hardest part of this arrangement is finding \"downtime\" activities for the child who is not receiving direct adult attention. For some children, self-direction is not a problem, but for some children with special needs, especially those with autism, self-direction in relation to play and leisure time may be difficult. This is especially a problem for children who engage in a high rate of self-stimulatory behavior, which competes with more acceptable age-appropriate play and leisure activities that would be expected in a less restrictive classroom.\n\nScoring Criteria and Placement Suggestions\nThe scores from the VB-MAPP Milestones Assessment section on independent play can be used as a measure of a child’s ability to self-direct his play and leisure time. Give the child a score of 1 on the Transition Assessment if his total score on the independent play area is at least 3. The scores between 2 and 4 on the Transition Assessment Form measure a child’s progression toward the ability to independently engage in play and leisure activities, and the child’s ability to engage in these activities without the adult directing the activity. This progression is measured by the occurrence of a variety of behaviors identified on the VB-MAPP Milestones and Task Analysis Assessments. Some of the activities include playground play, assembling and playing with toys, drawing, arts and crafts, sports, games, engaging in imaginary play, helping with daily activities, and other age- appropriate activities. Give the child a score of 5 on the Transition Assessment if he scores at least 14 on the independent play area of the VB-MAPP Milestones Assessment.",
+      "options": [
+        {
+          "text": "Scores 3 points on independent play in the Milestones Assessment",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Scores 5 points on independent play in the Milestones Assessment",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Scores 8 points on independent play in the Milestones Assessment",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Scores 11 points on independent play in the Milestones Assessment",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Scores 14 points on independent play in the Milestones Assessment",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "General Self-help",
+      "sectionId": 4,
+      "order": 16,
+      "guide": "16. General Self-help Skills\n\nThe last three transition areas (16-18) involve the child’s ability to independently care for himself. There are several aspects of learning self-help skills that can be assessed independently of the actual skills themselves. The first aspect is motivation (MOs): Is the child self-motivated to care for himself (e.g., he wants to put on his shoes by himself)? The second aspect is self-initiation: Does the child care for himself without prompts (e.g., is he motivated to put on his shoes and initiates doing so)? The third aspect is attempting approximations to self-help skills: Does the child try to care for himself (e.g., tries to independently put on his shoes by himself)? The fourth aspect asks whether the self-help skills are generalized: Do the self-help skills occur in different settings, with different materials, and with different people (e.g., the child uses the self-help skills he has learned at home in a school setting)? The final aspect asks whether a child engages in negative behaviors when adults provide the care (e.g., the child hits an adult trying to brush his teeth).\n\nScoring Criteria and Placement Suggestions\nWhen these five areas are combined with the specific steps in teaching self-help skills, an overall assessment of the child’s skill levels and the potential intervention needs can be revealed. The larger goal is not just that the child \"knows\" the skills on a self-help list, but rather that the child uses those skills in a functional way. Expectations regarding the child’s level of self-help should be developmentally appropriate (e.g., typically developing four-year olds may not independently wash their hands before eating).",
+      "options": [
+        {
+          "text": "No independent self-help, but does not engage in negative behaviors when adults provide personal care",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Requires verbal or physical prompts to complete most self-help tasks",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Requires mostly verbal prompts, but will attempt approximations to several self-help tasks",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Initiates some self-help tasks and usually attempts approximations, but still requires verbal prompting",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Is motivated, initiates approximations for most skills, and generalizes, but may need verbal prompts",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Toileting Skills",
+      "sectionId": 4,
+      "order": 17,
+      "guide": "17. Toileting Skills\n\n\"Is he potty trained?\" That is often the first questions asked by teachers when transitioning children to a less restrictive setting. This concern is due to the fact that additional time requirements are placed on a classroom teacher for a child who must be diapered and changed or taught toileting skills. Often, toileting is a major component of the decision to provide a one-on-one aide in a less restrictive setting. Thus, toileting is an important consideration for transition, and should be targeted while the child is still in a setting that has a higher teacher-to-student ratio, and with staff who have toilet training experience. All the issues presented above in the section titled \"General self-help skills\" are relevant to toileting (e.g., motivation, initiation, generalization). The current scale measures the child’s specific level of toileting skills.\n\nScoring Criteria and Placement Suggestions\nGive the child a score of 1 on the Transition Assessment if he demonstrates toilet training readiness (e.g., dry periods, sits still for 2 minutes, shows some indication that he has to urinate or defecate), but still wears a diaper. The scores between 2 and 4 demonstrate a progression towards more independent and successful toileting, and learning the toileting routines (e.g., un-dressing, wiping, re-dressing, flushing, washing, and drying hands). These scores also reflect the emergence of both bladder and bowel control and elimination on the toilet. Give the child a score of 5 if he initiates or mands to use the bathroom, and independently completes the age-appropriate steps of the toileting routine. A score of 4 or 5 would indicate that the child’s toileting skills are well established, and toileting issues shouldn’t affect transition decisions.",
+      "options": [
+        {
+          "text": "Still wears a diaper, but demonstrates toilet training readiness (e.g., dry periods, sits still for 2 mins.)",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Toilet training has begun, will occasionally urinate when seated on the toilet, but still wears a diaper",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Daytime bladder trained, uses pull ups, has occasional accidents, needs prompts and assistance to complete the toileting routine",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Both bladder and bowel trained, but needs prompts and assistance to complete the toileting routine",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Initiates or mands to use the bathroom and independently completes all steps of the toileting routine",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "text": "Eating Skills",
+      "sectionId": 4,
+      "order": 18,
+      "guide": "18. Eating Skills\n\nIndependent eating skills allow a child to participate in the lunch settings with typically developing peers with minimum supervision (this also depends on the existence of any behavior problems, such as running from the group). Lunchtime is often a time when staff members take their breaks (typically a mandatory component of employment), and there are fewer resources available. If a child requires extensive adult prompting and reinforcement to eat, it will be a variable to consider for his placement into a less restrictive setting. As with toileting, the general self-help skills described in transition area 16 above apply to eating (i.e., motivation, initiation, generalization).",
+      "options": [
+        {
+          "text": "Demonstrates some independent eating, but requires many physical prompts to eat, often a messy eater",
+          "order": 0,
+          "score": 0
+        },
+        {
+          "text": "Independently eats finger food, but requires adult arrangement of food, verbal prompting, and clean up",
+          "order": 1,
+          "score": 1
+        },
+        {
+          "text": "Independently get food from his lunchbox, eats finger food, but requires adult verbal prompting to eat",
+          "order": 2,
+          "score": 2
+        },
+        {
+          "text": "Independently use a spoon, eats without prompts, makes a minimal mess, needs prompts to clean up",
+          "order": 3,
+          "score": 3
+        },
+        {
+          "text": "Independently gets food items, eats, and uses utensils, cleans up independently, or with 1 verbal prompt",
+          "order": 4,
+          "score": 4
+        }
+      ]
+    }
+  ]
+}

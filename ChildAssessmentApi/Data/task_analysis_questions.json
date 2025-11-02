@@ -1,0 +1,1055 @@
+{
+  "questions": [
+    {
+      "text": "11-a: Rote counts to 5 with a verbal starter prompt (e.g., count 1, 2, ...) (T)",
+      "description": "Rote counting with verbal prompt support.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": false,
+      "order": 1,
+      "guide": "Provide starter prompt 'count 1, 2...' and observe if child continues to 5."
+    },
+    {
+      "text": "11-b*: Arranges objects by size (e.g., small, medium, and large blocks) (T)",
+      "description": "Sorts items by relative size.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": true,
+      "order": 2,
+      "guide": "Present 3 blocks of different sizes and ask to arrange from smallest to largest."
+    },
+    {
+      "text": "11-c*: Distinguishes between 1 and 2 items as a listener (e.g., Where are 2 boats?) (T)",
+      "description": "Follows instructions involving quantity 1 vs 2.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Listener",
+      "isCritical": true,
+      "order": 3,
+      "guide": "Say 'Where are 2 boats?' and observe correct selection."
+    },
+    {
+      "text": "11-d*: Distinguishes between 1 and 2 items as a mand (e.g., I want 2 cookies.) (E)",
+      "description": "Requests 1 or 2 items using quantity.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Mand",
+      "isCritical": true,
+      "order": 4,
+      "guide": "Contrive MO and prompt if needed: 'I want ___ cookies.'"
+    },
+    {
+      "text": "11-e*: Matches to sample the numbers 1-10 (e.g., puts the number 4 with the number 4) (T)",
+      "description": "Identical matching of numerals 1-10.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": true,
+      "order": 5,
+      "guide": "Present sample card '4' and array of 1-10; child places matching 4."
+    },
+    {
+      "text": "11-f: Identifies as a listener the numbers 1-5 in an array of 5 different numbers. (T)",
+      "description": "Selects correct numeral from array when named.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Listener",
+      "isCritical": false,
+      "order": 6,
+      "guide": "Say 'Give me 3' from array of 1,2,3,4,5."
+    },
+    {
+      "text": "12-a*: Distinguishes between 1 and 2 items as a tact (e.g., How many shoes do you have?) (T)",
+      "description": "Labels quantity of 1 or 2 items.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": true,
+      "order": 7,
+      "guide": "Present 1 or 2 items and ask 'How many?'"
+    },
+    {
+      "text": "12-b*: Holds up corresponding fingers for numbers 1-5 (e.g., Show me 2 fingers.) (T)",
+      "description": "Represents quantity with fingers.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": true,
+      "order": 8,
+      "guide": "Say 'Show me 3 fingers' and observe correct response."
+    },
+    {
+      "text": "12-c: Distinguishes between 1, 2, and 3 items as a listener (e.g., Can you find 3 flowers?) (T)",
+      "description": "Follows instructions for quantities 1-3.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Listener",
+      "isCritical": false,
+      "order": 9,
+      "guide": "Say 'Find 3 flowers' from array."
+    },
+    {
+      "text": "12-d: Counts 2 items with 1:1 correspondence (T)",
+      "description": "Points and counts 2 items accurately.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": false,
+      "order": 10,
+      "guide": "Present 2 items; child points and says '1, 2'."
+    },
+    {
+      "text": "12-M: Tacts the numbers 1-5. (T)",
+      "description": "Labels numerals 1-5 when shown.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": false,
+      "order": 11,
+      "guide": "Show card '3' and ask 'What number?'"
+    },
+    {
+      "text": "13-a*: Provides age when asked (T)",
+      "description": "States own age correctly.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": true,
+      "order": 12,
+      "guide": "Ask 'How old are you?'"
+    },
+    {
+      "text": "13-b: Counts out up to 3 items given the verbal prompt \"How many?\" and the related set of items (T)",
+      "description": "Counts out 1-3 items from a larger set.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Math",
+      "skillType": "Tact",
+      "isCritical": false,
+      "order": 13,
+      "guide": "Present 5 blocks, say 'Give me 3'."
+    },
+
+        {
+          "text": "1-a: Imitates 2 gross motor movements modeled by an adult (e.g., clap hands, raise arms) (T)",
+          "description": "Gross motor imitation with adult model.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 1,
+          "guide": "Model action, say 'Do this', observe imitation."
+        },
+        {
+          "text": "1-b: Imitates 4 gross motor movements (e.g., stomp feet, wave bye-bye) (T)",
+          "description": "Imitates variety of gross motor actions.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 2,
+          "guide": "Model 4 different actions across trials."
+        },
+        {
+          "text": "1-c: Imitates 8 gross motor movements (T)",
+          "description": "Imitates 8 different gross motor actions.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 3,
+          "guide": "Present 8 different movements in sequence."
+        },
+        {
+          "text": "2-a*: Imitates 2 fine motor movements (e.g., tap table, open hand) (T)",
+          "description": "Fine motor imitation with precision.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": true,
+          "order": 4,
+          "guide": "Model precise hand movements."
+        },
+        {
+          "text": "2-b*: Imitates 5 fine motor movements (T)",
+          "description": "Imitates 5 different fine motor actions.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": true,
+          "order": 5,
+          "guide": "Include finger isolation, pinching, pointing."
+        },
+        {
+          "text": "2-c: Imitates 10 fine motor movements (T)",
+          "description": "Imitates 10 fine motor actions.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 6,
+          "guide": "Vary complexity and speed."
+        },
+        {
+          "text": "3-a: Imitates 2 actions with objects (e.g., push car, stir spoon) (T)",
+          "description": "Object-based imitation.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 7,
+          "guide": "Model functional use of objects."
+        },
+        {
+          "text": "3-b: Imitates 5 actions with objects (T)",
+          "description": "Imitates 5 object actions.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 8,
+          "guide": "Include novel objects."
+        },
+        {
+          "text": "3-c: Imitates 10 actions with objects (T)",
+          "description": "Imitates 10 object actions.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Imitation",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 9,
+          "guide": "Include multi-step actions."
+        },
+        {
+          "text": "1-a: Spontaneously attends to peers (e.g., looks when peer laughs) (T)",
+          "description": "Social attention to peers.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Social",
+          "skillType": "Social",
+          "isCritical": false,
+          "order": 10,
+          "guide": "Observe in free play setting."
+        },
+        {
+          "text": "1-b: Initiates social interaction with peers (e.g., gives toy) (T)",
+          "description": "Initiates peer interaction.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Social",
+          "skillType": "Social",
+          "isCritical": false,
+          "order": 11,
+          "guide": "Observe unprompted initiations."
+        },
+        {
+          "text": "2-a*: Shares toys or materials with peers (T)",
+          "description": "Voluntary sharing.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Social",
+          "skillType": "Social",
+          "isCritical": true,
+          "order": 12,
+          "guide": "Observe during play with limited resources."
+        },
+        {
+          "text": "2-b*: Engages in turn-taking with peers (T)",
+          "description": "Reciprocal turn-taking.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Social",
+          "skillType": "Social",
+          "isCritical": true,
+          "order": 13,
+          "guide": "Observe in games like rolling ball."
+        },
+        {
+          "text": "3-a: Engages in simple pretend play with peers (e.g., tea party) (T)",
+          "description": "Joint pretend play.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Social",
+          "skillType": "Social",
+          "isCritical": false,
+          "order": 14,
+          "guide": "Provide props and observe interaction."
+        },
+        {
+          "text": "3-b: Engages in cooperative play with peers (e.g., build tower together) (T)",
+          "description": "Collaborative play.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Social",
+          "skillType": "Social",
+          "isCritical": false,
+          "order": 15,
+          "guide": "Observe joint construction or role play."
+        },
+        {
+          "text": "1-a: Matches identical objects to sample (e.g., block to block) (T)",
+          "description": "Identical object matching.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "VP/MTS",
+          "skillType": "Matching",
+          "isCritical": false,
+          "order": 16,
+          "guide": "Present sample and 3 choices."
+        },
+        {
+          "text": "1-b: Matches identical pictures to sample (T)",
+          "description": "Identical picture matching.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "VP/MTS",
+          "skillType": "Matching",
+          "isCritical": false,
+          "order": 17,
+          "guide": "Use clear, high-contrast images."
+        },
+        {
+          "text": "2-a*: Matches non-identical objects (e.g., different cups) (T)",
+          "description": "Non-identical object matching.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "VP/MTS",
+          "skillType": "Matching",
+          "isCritical": true,
+          "order": 18,
+          "guide": "Vary size, color, shape."
+        },
+        {
+          "text": "2-b*: Matches non-identical pictures (T)",
+          "description": "Non-identical picture matching.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "VP/MTS",
+          "skillType": "Matching",
+          "isCritical": true,
+          "order": 19,
+          "guide": "Use different exemplars of same category."
+        },
+        {
+          "text": "3-a: Matches objects to pictures (T)",
+          "description": "Object-to-picture matching.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "VP/MTS",
+          "skillType": "Matching",
+          "isCritical": false,
+          "order": 20,
+          "guide": "Present photo and real object."
+        },
+        {
+          "text": "3-b: Matches pictures to objects (T)",
+          "description": "Picture-to-object matching.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "VP/MTS",
+          "skillType": "Matching",
+          "isCritical": false,
+          "order": 21,
+          "guide": "Present object and photo array."
+        },
+        {
+          "text": "1-a: Engages in sensory play for 1 minute (e.g., sand, water) (T)",
+          "description": "Sustained sensory exploration.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Play",
+          "skillType": "Play",
+          "isCritical": false,
+          "order": 22,
+          "guide": "Provide sensory bin, time engagement."
+        },
+        {
+          "text": "1-b: Engages in cause-effect play (e.g., pop-up toy) (T)",
+          "description": "Operates cause-effect toys.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Play",
+          "skillType": "Play",
+          "isCritical": false,
+          "order": 23,
+          "guide": "Observe activation of toy."
+        },
+        {
+          "text": "2-a*: Engages in functional play with toys (e.g., rolls car) (T)",
+          "description": "Appropriate use of toys.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Play",
+          "skillType": "Play",
+          "isCritical": true,
+          "order": 24,
+          "guide": "Observe realistic actions with toys."
+        },
+        {
+          "text": "2-b*: Combines 2 toys in play (e.g., puts doll in car) (T)",
+          "description": "Relational play.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Play",
+          "skillType": "Play",
+          "isCritical": true,
+          "order": 25,
+          "guide": "Observe combining actions."
+        },
+        {
+          "text": "3-a: Engages in pretend play with objects (e.g., feeds doll) (T)",
+          "description": "Symbolic play.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Play",
+          "skillType": "Play",
+          "isCritical": false,
+          "order": 26,
+          "guide": "Provide doll and spoon."
+        },
+    {
+      "text": "3-b: Engages in pretend play with roles (e.g., \"mommy\") (T)",
+      "description": "Role play.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Play",
+      "skillType": "Play",
+      "isCritical": false,
+      "order": 27,
+      "guide": "Observe verbal role assignment."
+    },
+
+    {
+      
+        
+          "text": "1-M: Spontaneously emits an average of 5 sounds each hour. (TO: 60 min.)",
+          "description": "Spontaneous vocalization rate.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Vocal",
+          "skillType": "Vocal",
+          "isCritical": false,
+          "order": 1,
+          "guide": "Observe over 60 minutes in natural setting. Count distinct sounds."
+        },
+        {
+          "text": "2-M: Spontaneously emits 5 different sounds, averaging 10 total sounds each hour. (TO: 60 min.)",
+          "description": "Variety and frequency of vocalizations.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Vocal",
+          "skillType": "Vocal",
+          "isCritical": false,
+          "order": 2,
+          "guide": "Track 5 unique sounds and total count."
+        },
+        {
+          "text": "3-M: Spontaneously emits 10 different sounds with varying intonations, averaging 25 total sounds each hour. (TO: 60 min.)",
+          "description": "Intonation and diversity in vocal play.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Vocal",
+          "skillType": "Vocal",
+          "isCritical": false,
+          "order": 3,
+          "guide": "Note pitch, volume, emotion in sounds."
+        },
+        {
+          "text": "4-M: Spontaneously emits 5 different whole word approximations. (TO: 60 min.)",
+          "description": "Emerging word forms.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Vocal",
+          "skillType": "Vocal",
+          "isCritical": false,
+          "order": 4,
+          "guide": "Approximations like 'ba' for 'ball' count."
+        },
+        {
+          "text": "5-M: Spontaneously vocalizes 15 whole words or phrases with appropriate intonation and rhythm. (TO: 60 min.)",
+          "description": "Fluent spontaneous speech.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Vocal",
+          "skillType": "Vocal",
+          "isCritical": false,
+          "order": 5,
+          "guide": "Count clear, unprompted words/phrases."
+        },
+        {
+          "text": "1-a: Repeats 1 sound after adult model (e.g., \"ba\") (T)",
+          "description": "Single sound echoic.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": false,
+          "order": 6,
+          "guide": "Model sound, say 'Say ba', observe immediate echo."
+        },
+        {
+          "text": "1-b: Repeats 2 sounds (T)",
+          "description": "Two distinct sounds echoed.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": false,
+          "order": 7,
+          "guide": "Model 'ma', 'ba' in sequence."
+        },
+        {
+          "text": "1-c: Repeats 3 sounds (T)",
+          "description": "Three-sound echoic repertoire.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": false,
+          "order": 8,
+          "guide": "Include vowels and consonants."
+        },
+        {
+          "text": "2-a*: Repeats 1-syllable word (e.g., \"hi\") (T)",
+          "description": "Single-syllable word echo.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": true,
+          "order": 9,
+          "guide": "Clear articulation required."
+        },
+        {
+          "text": "2-b*: Repeats 2-syllable word (e.g., \"daddy\") (T)",
+          "description": "Two-syllable echoic.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": true,
+          "order": 10,
+          "guide": "Stress correct syllable pattern."
+        },
+        {
+          "text": "3-a: Repeats 3-syllable word (e.g., \"banana\") (T)",
+          "description": "Three-syllable word echo.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": false,
+          "order": 11,
+          "guide": "Accept approximations if intelligible."
+        },
+        {
+          "text": "3-b: Repeats 2-word phrase (e.g., \"more juice\") (T)",
+          "description": "Phrase echoic.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Echoic",
+          "skillType": "Echoic",
+          "isCritical": false,
+          "order": 12,
+          "guide": "Maintain word order and intonation."
+        },
+        {
+          "text": "1-a: Selects 2 items from array of 3 when asked \"Where is X?\" (T)",
+          "description": "Basic listener responding.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "LRFFC",
+          "skillType": "Listener",
+          "isCritical": false,
+          "order": 13,
+          "guide": "Use familiar items, point to named one."
+        },
+        {
+          "text": "1-b: Selects 3 items from array of 4 (T)",
+          "description": "Increased array size.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "LRFFC",
+          "skillType": "Listener",
+          "isCritical": false,
+          "order": 14,
+          "guide": "Ensure no visual bias."
+        },
+        {
+          "text": "2-a*: Selects 5 items from array of 6 (T)",
+          "description": "Large array listener responding.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "LRFFC",
+          "skillType": "Listener",
+          "isCritical": true,
+          "order": 15,
+          "guide": "Rotate positions."
+        },
+        {
+          "text": "2-b*: Selects items based on function (e.g., \"Which one can you eat?\") (T)",
+          "description": "Function-based selection.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "LRFFC",
+          "skillType": "Listener",
+          "isCritical": true,
+          "order": 16,
+          "guide": "Use real objects when possible."
+        },
+        {
+          "text": "3-a: Selects items based on feature (e.g., \"Which one is red?\") (T)",
+          "description": "Feature-based selection.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "LRFFC",
+          "skillType": "Listener",
+          "isCritical": false,
+          "order": 17,
+          "guide": "Include distractors."
+        },
+        {
+          "text": "3-b: Selects items based on class (e.g., \"Which one is an animal?\") (T)",
+          "description": "Class-based selection.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "LRFFC",
+          "skillType": "Listener",
+          "isCritical": false,
+          "order": 18,
+          "guide": "Use pictures or objects."
+        },
+        {
+          "text": "1-a: Fills in 1 word in familiar song/rhyme (e.g., \"Twinkle twinkle little ___\") (T)",
+          "description": "Basic fill-in.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Intraverbal",
+          "skillType": "Intraverbal",
+          "isCritical": false,
+          "order": 19,
+          "guide": "Pause before target word."
+        },
+        {
+          "text": "1-b: Fills in 2 words (T)",
+          "description": "Two-word fill-in.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Intraverbal",
+          "skillType": "Intraverbal",
+          "isCritical": false,
+          "order": 20,
+          "guide": "Use familiar routines."
+        },
+        {
+          "text": "2-a*: Answers 1 \"What\" question (e.g., \"What do you eat with?\") (T)",
+          "description": "Function question.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Intraverbal",
+          "skillType": "Intraverbal",
+          "isCritical": true,
+          "order": 21,
+          "guide": "Accept 'spoon', 'fork'."
+        },
+        {
+          "text": "2-b*: Answers 1 \"Where\" question (T)",
+          "description": "Location question.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Intraverbal",
+          "skillType": "Intraverbal",
+          "isCritical": true,
+          "order": 22,
+          "guide": "Ask 'Where do you sleep?'"
+        },
+        {
+          "text": "3-a: Answers 1 \"Who\" question (T)",
+          "description": "Person question.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Intraverbal",
+          "skillType": "Intraverbal",
+          "isCritical": false,
+          "order": 23,
+          "guide": "Ask 'Who drives the bus?'"
+        },
+    {
+      "text": "3-b: Answers 1 \"What doing?\" question (T)",
+      "description": "Action question.",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "Intraverbal",
+      "skillType": "Intraverbal",
+      "isCritical": false,
+      "order": 24,
+      "guide": "Ask 'What is the dog doing?'"
+    },
+
+    {
+      
+        
+          "text": "1-a: Uses 2-word phrases (e.g., \"more juice\") (T)",
+          "description": "Early sentence formation.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Linguistic Structure",
+          "skillType": "Mand/Tact",
+          "isCritical": false,
+          "order": 1,
+          "guide": "Observe spontaneous or prompted 2-word combinations."
+        },
+        {
+          "text": "1-b: Uses 3-word phrases (T)",
+          "description": "Three-word utterances.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Linguistic Structure",
+          "skillType": "Mand/Tact",
+          "isCritical": false,
+          "order": 2,
+          "guide": "Include subject-verb-object."
+        },
+        {
+          "text": "2-a*: Uses 4-word sentences (T)",
+          "description": "Four-word sentence production.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Linguistic Structure",
+          "skillType": "Mand/Tact",
+          "isCritical": true,
+          "order": 3,
+          "guide": "Spontaneous or prompted."
+        },
+        {
+          "text": "2-b*: Uses 5+ word sentences (T)",
+          "description": "Complex sentence formation.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Linguistic Structure",
+          "skillType": "Mand/Tact",
+          "isCritical": true,
+          "order": 4,
+          "guide": "Include descriptors, actions, locations."
+        },
+        {
+          "text": "3-a: Uses pronouns correctly (e.g., \"I\", \"you\") (T)",
+          "description": "Pronoun accuracy.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Linguistic Structure",
+          "skillType": "Mand/Tact",
+          "isCritical": false,
+          "order": 5,
+          "guide": "Observe in conversation."
+        },
+        {
+          "text": "3-b: Uses prepositions (e.g., \"on\", \"in\") (T)",
+          "description": "Prepositional phrases.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Linguistic Structure",
+          "skillType": "Mand/Tact",
+          "isCritical": false,
+          "order": 6,
+          "guide": "Prompt with objects if needed."
+        },
+        {
+          "text": "1-a: Responds to group instructions (e.g., \"Everyone clap\") (T)",
+          "description": "Group compliance.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Group",
+          "skillType": "Listener",
+          "isCritical": false,
+          "order": 7,
+          "guide": "Observe in circle time."
+        },
+        {
+          "text": "1-b: Participates in group song (T)",
+          "description": "Group vocal participation.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Group",
+          "skillType": "Social",
+          "isCritical": false,
+          "order": 8,
+          "guide": "Sings along or imitates actions."
+        },
+        {
+          "text": "2-a*: Takes turns in group game (T)",
+          "description": "Turn-taking in group.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Group",
+          "skillType": "Social",
+          "isCritical": true,
+          "order": 9,
+          "guide": "Observe waiting and participation."
+        },
+        {
+          "text": "2-b*: Follows group routine (T)",
+          "description": "Adheres to group schedule.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Group",
+          "skillType": "Listener",
+          "isCritical": true,
+          "order": 10,
+          "guide": "Transitions with group."
+        },
+        {
+          "text": "3-a: Answers in group discussion (T)",
+          "description": "Contributes verbally.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Group",
+          "skillType": "Intraverbal",
+          "isCritical": false,
+          "order": 11,
+          "guide": "Raise hand or respond when called."
+        },
+        {
+          "text": "3-b: Asks question in group (T)",
+          "description": "Initiates inquiry.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Group",
+          "skillType": "Mand",
+          "isCritical": false,
+          "order": 12,
+          "guide": "Spontaneous or prompted."
+        },
+        {
+          "text": "1-a: Rote counts to 3 (T)",
+          "description": "Rote counting 1-3.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Math",
+          "skillType": "Tact",
+          "isCritical": false,
+          "order": 13,
+          "guide": "Prompt 'count' if needed."
+        },
+        {
+          "text": "1-b: Matches quantities 1-3 (T)",
+          "description": "Quantity matching.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Math",
+          "skillType": "Matching",
+          "isCritical": false,
+          "order": 14,
+          "guide": "Use blocks or pictures."
+        },
+        {
+          "text": "2-a*: Counts to 5 with 1:1 (T)",
+          "description": "1:1 correspondence to 5.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Math",
+          "skillType": "Tact",
+          "isCritical": true,
+          "order": 15,
+          "guide": "Point to each item while counting."
+        },
+        {
+          "text": "2-b*: Identifies numbers 1-5 (T)",
+          "description": "Numeral recognition.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Math",
+          "skillType": "Tact",
+          "isCritical": true,
+          "order": 16,
+          "guide": "Show card, ask 'What number?'"
+        },
+        {
+          "text": "3-a: Adds with objects (1+1=2) (T)",
+          "description": "Simple addition.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Math",
+          "skillType": "Tact",
+          "isCritical": false,
+          "order": 17,
+          "guide": "Use manipulatives."
+        },
+        {
+          "text": "3-b: Subtracts with objects (2-1=1) (T)",
+          "description": "Simple subtraction.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Math",
+          "skillType": "Tact",
+          "isCritical": false,
+          "order": 18,
+          "guide": "Remove and count remaining."
+        },
+        {
+          "text": "1-a: Matches identical letters (T)",
+          "description": "Letter matching.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Reading",
+          "skillType": "Matching",
+          "isCritical": false,
+          "order": 19,
+          "guide": "Uppercase to uppercase."
+        },
+        {
+          "text": "1-b: Identifies 3 letters (T)",
+          "description": "Letter naming.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Reading",
+          "skillType": "Tact",
+          "isCritical": false,
+          "order": 20,
+          "guide": "Receptive or expressive."
+        },
+        {
+          "text": "2-a*: Reads 5 sight words (T)",
+          "description": "Sight word recognition.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Reading",
+          "skillType": "Tact",
+          "isCritical": true,
+          "order": 21,
+          "guide": "Flashcards, no sounding out."
+        },
+        {
+          "text": "2-b*: Matches word to picture (T)",
+          "description": "Word-picture association.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Reading",
+          "skillType": "Matching",
+          "isCritical": true,
+          "order": 22,
+          "guide": "Array of 3-4 pictures."
+        },
+        {
+          "text": "3-a: Reads simple sentence (T)",
+          "description": "Sentence reading.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Reading",
+          "skillType": "Tact",
+          "isCritical": false,
+          "order": 23,
+          "guide": "3-5 words, familiar."
+        },
+        {
+          "text": "3-b: Answers comprehension question (T)",
+          "description": "Reading comprehension.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Reading",
+          "skillType": "Intraverbal",
+          "isCritical": false,
+          "order": 24,
+          "guide": "Ask 'Who?' or 'What?'"
+        },
+        {
+          "text": "1-a: Imitates vertical stroke (T)",
+          "description": "Vertical line imitation.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Writing",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 25,
+          "guide": "Model on paper."
+        },
+        {
+          "text": "1-b: Imitates horizontal stroke (T)",
+          "description": "Horizontal line imitation.",
+          "sectionId": 6,
+          "milestoneLevel": 1,
+          "category": "Writing",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 26,
+          "guide": "Use thick marker."
+        },
+        {
+          "text": "2-a*: Copies circle (T)",
+          "description": "Circle copying.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Writing",
+          "skillType": "Imitation",
+          "isCritical": true,
+          "order": 27,
+          "guide": "Model or dotted template."
+        },
+        {
+          "text": "2-b*: Copies cross (T)",
+          "description": "Cross copying.",
+          "sectionId": 6,
+          "milestoneLevel": 2,
+          "category": "Writing",
+          "skillType": "Imitation",
+          "isCritical": true,
+          "order": 28,
+          "guide": "Intersecting lines."
+        },
+        {
+          "text": "3-a: Writes name from model (T)",
+          "description": "Name copying.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Writing",
+          "skillType": "Imitation",
+          "isCritical": false,
+          "order": 29,
+          "guide": "Model in uppercase."
+        },
+        {
+          "text": "3-b: Writes 3 letters independently (T)",
+          "description": "Independent letter formation.",
+          "sectionId": 6,
+          "milestoneLevel": 3,
+          "category": "Writing",
+          "skillType": "Tact",
+          "isCritical": false,
+          "order": 30,
+          "guide": "Dictate or request."
+        }
+      ]
+    }
+
+
+  
+    
+
+
+  
+    
+
+  

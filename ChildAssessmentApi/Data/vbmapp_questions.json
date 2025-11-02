@@ -1,0 +1,156 @@
+{
+  "questions": [
+    {
+      "text": "يستجيب الطفل لاسمه عند مناداته",
+      "description": "يجب أن يستجيب الطفل لاسمه في 80% من المحاولات",
+      "sectionId": 1,
+      "milestoneLevel": 0,
+      "category": "الانتباه",
+      "order": 1
+    },
+    {
+      "text": "يستجيب الطفل للأصوات العالية",
+      "description": "يجب أن يستدير الطفل نحو مصدر الصوت",
+      "sectionId": 1,
+      "milestoneLevel": 0,
+      "category": "الانتباه",
+      "order": 2
+    },
+    {
+      "text": "يستجيب الطفل للوجوه المألوفة",
+      "description": "يجب أن يظهر الطفل تعبيرات إيجابية عند رؤية الوجوه المألوفة",
+      "sectionId": 1,
+      "milestoneLevel": 1,
+      "category": "التفاعل الاجتماعي",
+      "order": 3
+    },
+    {
+      "text": "يستجيب الطفل للابتسامات",
+      "description": "يجب أن يبتسم الطفل رداً على الابتسامات",
+      "sectionId": 1,
+      "milestoneLevel": 1,
+      "category": "التفاعل الاجتماعي",
+      "order": 4
+    },
+    {
+      "text": "يستجيب الطفل للألعاب التفاعلية",
+      "description": "يجب أن يشارك الطفل في الألعاب البسيطة مثل peek-a-boo",
+      "sectionId": 1,
+      "milestoneLevel": 2,
+      "category": "التفاعل الاجتماعي",
+      "order": 5
+    },
+    {
+      "text": "يستجيب الطفل للكلمات البسيطة",
+      "description": "يجب أن يستدير الطفل نحو المتحدث عند سماع كلمات مألوفة",
+      "sectionId": 2,
+      "milestoneLevel": 0,
+      "category": "الاستماع",
+      "order": 1
+    },
+    {
+      "text": "يستجيب الطفل للأوامر البسيطة",
+      "description": "يجب أن يتبع الطفل أوامر بسيطة مثل 'تعال هنا'",
+      "sectionId": 2,
+      "milestoneLevel": 1,
+      "category": "الاستماع",
+      "order": 2
+    },
+    {
+      "text": "يستجيب الطفل للأسئلة البسيطة",
+      "description": "يجب أن يجيب الطفل على أسئلة بسيطة بنعم أو لا",
+      "sectionId": 2,
+      "milestoneLevel": 2,
+      "category": "الاستماع",
+      "order": 3
+    },
+    {
+      "text": "يستجيب الطفل للطلبات المعقدة",
+      "description": "يجب أن يتبع الطفل طلبات من خطوتين",
+      "sectionId": 2,
+      "milestoneLevel": 3,
+      "category": "الاستماع",
+      "order": 4
+    },
+    {
+      "text": "يستجيب الطفل للقواعد البسيطة",
+      "description": "يجب أن يتبع الطفل قواعد بسيطة مثل 'لا تلمس'",
+      "sectionId": 3,
+      "milestoneLevel": 1,
+      "category": "السلوك",
+      "order": 1
+    },
+    {
+      "text": "يستجيب الطفل للانتظار",
+      "description": "يجب أن ينتظر الطفل دوره في الأنشطة",
+      "sectionId": 3,
+      "milestoneLevel": 2,
+      "category": "السلوك",
+      "order": 2
+    },
+    {
+      "text": "يستجيب الطفل للضوء الساطع",
+      "description": "يجب أن يستجيب الطفل للضوء الساطع بشكل طبيعي",
+      "sectionId": 4,
+      "milestoneLevel": 0,
+      "category": "المعالجة البصرية",
+      "order": 1
+    },
+    {
+      "text": "يستجيب الطفل للأصوات المختلفة",
+      "description": "يجب أن يستجيب الطفل للأصوات المختلفة بشكل مناسب",
+      "sectionId": 4,
+      "milestoneLevel": 0,
+      "category": "المعالجة السمعية",
+      "order": 2
+    },
+    {
+      "text": "يستجيب الطفل للمس",
+      "description": "يجب أن يستجيب الطفل للمس بشكل طبيعي",
+      "sectionId": 4,
+      "milestoneLevel": 0,
+      "category": "المعالجة اللمسية",
+      "order": 3
+    },
+    {
+      "text": "يستجيب الطفل للحركة",
+      "description": "يجب أن يستجيب الطفل للحركة بشكل طبيعي",
+      "sectionId": 5,
+      "milestoneLevel": 0,
+      "category": "المهارات الحركية الكبرى",
+      "order": 1
+    },
+    {
+      "text": "يستجيب الطفل للحركات الدقيقة",
+      "description": "يجب أن يستجيب الطفل للحركات الدقيقة بشكل طبيعي",
+      "sectionId": 5,
+      "milestoneLevel": 1,
+      "category": "المهارات الحركية الدقيقة",
+      "order": 2
+    },
+    {
+      "text": "يستجيب الطفل للألوان",
+      "description": "يجب أن يميز الطفل بين الألوان الأساسية",
+      "sectionId": 6,
+      "milestoneLevel": 1,
+      "category": "التطور الإدراكي",
+      "order": 1
+    },
+    {
+      "text": "يستجيب الطفل للأشكال",
+      "description": "يجب أن يميز الطفل بين الأشكال الأساسية",
+      "sectionId": 6,
+      "milestoneLevel": 2,
+      "category": "التطور الإدراكي",
+      "order": 2
+    },
+    {
+      "text": "يستجيب الطفل للأرقام",
+      "description": "يجب أن يميز الطفل بين الأرقام من 1 إلى 5",
+      "sectionId": 6,
+      "milestoneLevel": 3,
+      "category": "التطور الإدراكي",
+      "order": 3
+    }
+  ]
+}
