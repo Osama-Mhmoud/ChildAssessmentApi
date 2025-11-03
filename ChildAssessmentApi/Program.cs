@@ -54,7 +54,6 @@ builder.Services.AddDbContext<AssessmentDbContext>(options =>
 builder.Services.AddScoped<QuestionImportService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

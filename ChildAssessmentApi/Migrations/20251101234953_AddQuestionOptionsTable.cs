@@ -15,7 +15,7 @@ namespace ChildAssessmentApi.Migrations
                 table: "Questions",
                 type: "nvarchar(max)",
                 nullable: true);
-
+           
             migrationBuilder.CreateTable(
                 name: "QuestionOptions",
                 columns: table => new
@@ -35,6 +35,7 @@ namespace ChildAssessmentApi.Migrations
                         column: x => x.QuestionId,
                         principalTable: "Questions",
                         principalColumn: "Id",
+                        
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -89,6 +90,8 @@ namespace ChildAssessmentApi.Migrations
                 name: "IX_QuestionOptions_QuestionId_Order",
                 table: "QuestionOptions",
                 columns: new[] { "QuestionId", "Order" });
+          
+
         }
 
         /// <inheritdoc />

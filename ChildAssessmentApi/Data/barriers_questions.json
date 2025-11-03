@@ -1,75 +1,4 @@
-{
-  //"questions": [
-  //  {
-  //    "text": "Behavior Problems",
-  //    "sectionId": 3,
-  //    "order": 1,
-  //    "guide": "إرشادات التسجيل لتقييم العوائق\n\n1. Negative Behaviors\n\nMost children exhibit some form of negative behavior during their early development (e.g., whining, crying, tantruming, aggression). Usually, these behaviors subside in frequency and are replaced with other more acceptable behaviors (e.g., language and socialization). However, for some children with autism or other developmental disabilities the negative behaviors do not subside, and may become worse as the child grows.\n\nScoring Criteria:\nScore 0: Typically does not demonstrate behavior problems that impede learning.\nScore 1: Some minor behavior problems (e.g., occasional crying or whining), brief and recovery is quick.\nScore 2: A variety of minor negative behaviors every day (e.g., crying, verbal refusal, falling to the floor).\nScore 3: More severe and frequent negative behavior (e.g., tantrums, throwing things, property destruction).\nScore 4: Negative behaviors occur several times a day and present a danger to himself or others.",
-  //    "options": [
-  //      {
-  //        "text": "Does not demonstrate any significant negative behaviors",
-  //        "order": 0,
-  //        "score": 0
-  //      },
-  //      {
-  //        "text": "Engages in some minor negative behaviors weekly, but recovery is quick",
-  //        "order": 1,
-  //        "score": 1
-  //      },
-  //      {
-  //        "text": "Emits a variety of minor negative behaviors daily (e.g., crying, verbal refusal, falling to the floor)",
-  //        "order": 2,
-  //        "score": 2
-  //      },
-  //      {
-  //        "text": "Emits more severe negative behavior daily (e.g., tantrums, throwing things, property destruction)",
-  //        "order": 3,
-  //        "score": 3
-  //      },
-  //      {
-  //        "text": "Often emits severe negative behavior that is a danger to himself or others (e.g., aggression, self-injury)",
-  //        "order": 4,
-  //        "score": 4
-  //      }
-  //    ]
-  //  },
-  //  {
-  //    "text": "Instructional Control",
-  //    "sectionId": 3,
-  //    "order": 2,
-  //    "guide": "إرشادات التسجيل لتقييم العوائق\n\n2. Instructional Control (Escape and Avoidance of Instructional Demands)\n\nInstructional control is when a teacher (or parent, aide, OT, etc.) asks a child to do something and he complies.\n\nScoring Criteria:\nScore 0: Typically cooperative with adult instructions and demands.\nScore 1: Some demands evoke minor noncompliant behavior, but recovery is quick.\nScore 2: Emits noncompliant behavior a few times a day with minor tantrums.\nScore 3: Progression towards more persistent and severe instructional control problems.\nScore 4: Noncompliant behavior is a major issue everyday with strong behaviors.",
-  //    "options": [
-  //      {
-  //        "text": "Typically cooperative with adult instructions and demands",
-  //        "order": 0,
-  //        "score": 0
-  //      },
-  //      {
-  //        "text": "Some demands will evoke minor noncompliant behavior, but recovery is quick",
-  //        "order": 1,
-  //        "score": 1
-  //      },
-  //      {
-  //        "text": "Emits noncompliant behavior a few times a day, with minor tantrums, or other minor behaviors",
-  //        "order": 2,
-  //        "score": 2
-  //      },
-  //      {
-  //        "text": "Emits noncompliant behavior several times a day, with longer tantrums and more severe behaviors",
-  //        "order": 3,
-  //        "score": 3
-  //      },
-  //      {
-  //        "text": "Noncompliant behavior dominates the child's day, negative behaviors can be severe and dangerous",
-  //        "order": 4,
-  //        "score": 4
-  //      }
-  //    ]
-  //  }
-  //]
-
-
-  
+{ 
     "questions": [
       {
         "text": "Behavior Problems",
@@ -866,4 +795,3 @@
     ]
   }
 
-}

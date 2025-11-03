@@ -12,12 +12,13 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ChildAssessmentApi.Migrations
 {
     [DbContext(typeof(AssessmentDbContext))]
-    [Migration("20251102122926_AddTransitionsSectionAndQuestions")]
-    partial class AddTransitionsSectionAndQuestions
+    [Migration("20251102190851_SeedAllAssessmentData")]
+    partial class SeedAllAssessmentData
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
+#pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "9.0.9")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
@@ -281,7 +282,8 @@ namespace ChildAssessmentApi.Migrations
             modelBuilder.Entity("ChildAssessmentApi.Models.Models+Section", b =>
                 {
                     b.Navigation("Questions");
-                   });
+                });
+#pragma warning restore 612, 618
         }
     }
 }
