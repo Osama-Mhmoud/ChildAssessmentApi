@@ -9,12 +9,16 @@ namespace ChildAssessmentApi.Models
         public class AssessmentDbContext : DbContext
     {
 
-
-       // using Microsoft.EntityFrameworkCore;
-
-//public class AssessmentDbContext : DbContext
-   // {
         public AssessmentDbContext(DbContextOptions<AssessmentDbContext> options) : base(options) { }
+
+
+        public DbSet<MilestoneScore> MilestoneScores { get; set; }
+        public DbSet<BarrierScore> BarrierScores { get; set; }
+        public DbSet<TransitionScore> TransitionScores { get; set; }
+        public DbSet<TaskAnalysisScore> TaskAnalysisScores { get; set; }
+
+
+
 
         public DbSet<Section> Sections { get; set; }
         public DbSet<Question> Questions { get; set; }
@@ -23,6 +27,9 @@ namespace ChildAssessmentApi.Models
         public DbSet<Assessment> Assessments { get; set; }
         public DbSet<Answer> Answers { get; set; }
 
+
+        // ApplicationDbContext.cs
+        public DbSet<AssessmentScore> AssessmentScores { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Section>().HasMany(s => s.Questions).WithOne(q => q.Section).HasForeignKey(q => q.SectionId);
