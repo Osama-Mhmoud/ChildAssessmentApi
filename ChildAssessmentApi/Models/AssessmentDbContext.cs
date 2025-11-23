@@ -17,8 +17,9 @@ namespace ChildAssessmentApi.Models
         public DbSet<TransitionScore> TransitionScores { get; set; }
         public DbSet<TaskAnalysisScore> TaskAnalysisScores { get; set; }
 
-
-
+        // Data/ApplicationDbContext.cs
+        public DbSet<VbmappQuestion> VbmappQuestions { get; set; } = null!;
+        public DbSet<StudentAnswer> StudentAnswers { get; set; } = null!;
 
         public DbSet<Section> Sections { get; set; }
         public DbSet<Question> Questions { get; set; }

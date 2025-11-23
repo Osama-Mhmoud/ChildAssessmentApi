@@ -437,4 +437,18 @@ public class AssessmentsController : ControllerBase
             return BadRequest(result);
         }
     }
+
+    [HttpGet("api/debug/vbmapp-counts")]
+    public IActionResult GetCounts()
+    {
+        var counts = new
+        {
+            Milestones = _context.VbmappQuestions.Count(q => q.Level >= 1 && q.Level <= 3),
+            Barriers = _context.VbmappQuestions.Count(q => q.Section == "Barriers"),
+            Transitions = _context.VbmappQuestions.Count(q => q.Section == "Transitions"),
+            TaskAnalysis = _context.VbmappQuestions.Count(q => q.Section.Contains("Task") || q.Section == "EESA"),
+            Total = _context.VbmappQuestions.Count()
+        };
+        return Ok(counts);
+    }
 }
